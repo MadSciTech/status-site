@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Managed Services Status - Mad Scientist Technologies</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Managed Services Status - Mad Scientist Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Jan 2017 00:54:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regularly Scheduled Server Maintenance</title>
+      <link>http://localhost:1313/post/156638474626/regularly-scheduled-server-maintenance/</link>
+      <pubDate>Tue, 31 Jan 2017 00:54:16 -0500</pubDate>
+      <guid>http://localhost:1313/post/156638474626/regularly-scheduled-server-maintenance/</guid>
+      <description>Completed&#xA;On January 31 - February 1, 2017 February 5 - 6 starting around 11PM CST tonight and continuing until 2AM 3AM CST on February 1.&#xA;The Following Services will be Affected&#xA;Managed Web Services Managed Mail Services Incoming/Outgoing Mail Delivery We expect minor downtime, there may be periods of downtime lasting up to 10 minutes for the afected services.&#xA;If you have questions, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Regularly Scheduled Server Maintenance</title>
+      <link>http://localhost:1313/post/153406372526/regularly-scheduled-server-maintenance/</link>
+      <pubDate>Sat, 19 Nov 2016 00:52:38 -0500</pubDate>
+      <guid>http://localhost:1313/post/153406372526/regularly-scheduled-server-maintenance/</guid>
+      <description>On November 21, 2016 starting around 1:00AM CST we will be doing a small bit of regular maintenance on our servers.&#xA;The Follwing Services will be Affected&#xA;Managed Web Services Managed Mail Services Incoming/Outgoing Mail Delivery We expect no more than five (5) minutes of downtime for this maintenance window.&#xA;If you have questions, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Regularly Scheduled Server Maintenance</title>
+      <link>http://localhost:1313/post/152040745696/regularly-scheduled-server-maintenance/</link>
+      <pubDate>Wed, 19 Oct 2016 00:50:27 -0500</pubDate>
+      <guid>http://localhost:1313/post/152040745696/regularly-scheduled-server-maintenance/</guid>
+      <description>On October 23, 2016 starting at 11:00PM, we will be performing some regular server maintenance on the following services:&#xA;Managed Web Services Managed Mail Services Including Incoming and Outgoing Mail We expect only a short bit of downtime, approximately five minutes or less.&#xA;This maintenance window is: October 23 at 23:00 - October 24 at 01:00.&#xA;If you have any questions, please feel free to contact us.&#xA;Updates Completed at 3:00 AM on October 24, 2016.</description>
+    </item>
+    <item>
+      <title>DKIM Record Update</title>
+      <link>http://localhost:1313/post/151990425087/dkim-record-update/</link>
+      <pubDate>Tue, 18 Oct 2016 00:48:50 -0500</pubDate>
+      <guid>http://localhost:1313/post/151990425087/dkim-record-update/</guid>
+      <description>Some of our managed mail clients will have there DKIM records and signing key updated to stronger encryption algorithms. This is being done to improve mail delivery. We expect less than a minute of downtime for this change.&#xA;We expect this change to go into affect between 22:00 - 23:00 on October 18, 2016.&#xA;Affected Services&#xA;Managed Mail Services DNS Records This is part of the DMARC project.</description>
+    </item>
+    <item>
+      <title>Web Server Upgrade ✔️</title>
+      <link>http://localhost:1313/post/149379357141/web-server-upgrade/</link>
+      <pubDate>Tue, 23 Aug 2016 00:39:56 -0500</pubDate>
+      <guid>http://localhost:1313/post/149379357141/web-server-upgrade/</guid>
+      <description>Web Server Successfully Upgraded on Saturday, August 27, 2016 at 1:30AM. ✔️&#xA;**ALERT: UPDATE/CHANGE - August 25, 2016** Due to a drastic change in availability, this project has been re-scheduled for this weekend - August 26-29&#xA;Actual Schedule ✔️ Server Imaging: Friday 11:30PM-12:15AM&#xA;Actual Downtime/Interruption: None&#xA;Status: Completed ✔️✔️✔️ ✔️ Upgrade Test Run: Saturday: 12:15-12:50&#xA;Status: Completed ✔️✔️✔️ ✔️ Server Upgrade: Saturday 1:00AM-1:30AM&#xA;Actual Downtime: ~5-15 Minutes&#xA;Affected Service: Web, Database, and Mail Services</description>
+    </item>
+    <item>
+      <title>Webmail Maintenance</title>
+      <link>http://localhost:1313/post/148846898301/webmail-maintenance/</link>
+      <pubDate>Fri, 12 Aug 2016 00:37:43 -0500</pubDate>
+      <guid>http://localhost:1313/post/148846898301/webmail-maintenance/</guid>
+      <description>Update 8/12 3:40PM: Webmail Maintenance Completed&#xA;We will be doing some maintenance on our webmail interface (http://mail.services.madscitech.net) starting on August 12, 2016 at 2:00PM.&#xA;We expect this maintenance to take approximately 1 Hour to complete. There will be some periods of unavailability as we complete the maintenance.&#xA;This maintenance will not affect the delivery of mail to your account.&#xA;Affected Services&#xA;Webmail </description>
+    </item>
+    <item>
+      <title>HTTPS 💖 MadSciTech.com</title>
+      <link>http://localhost:1313/post/147595832305/https-madscitechcom/</link>
+      <pubDate>Mon, 18 Jul 2016 00:34:46 -0500</pubDate>
+      <guid>http://localhost:1313/post/147595832305/https-madscitechcom/</guid>
+      <description>Our company website has finally made the move to HTTPS!&#xA;After a few weeks of planning, we have turned on full encryption on our own website.&#xA;Now all of your communications between your device and our website is encrypted. 1&#xA;This is only the first step in many bigger changes coming down the pipeline. Soon you will be able to manage your entire account via our website; billing, service management, appointments and more.</description>
+    </item>
+    <item>
+      <title>Upgrade to Transactional Email</title>
+      <link>http://localhost:1313/post/147543439136/upgrade-to-transactional-email/</link>
+      <pubDate>Sun, 17 Jul 2016 00:22:22 -0500</pubDate>
+      <guid>http://localhost:1313/post/147543439136/upgrade-to-transactional-email/</guid>
+      <description>Update: As of July 22, 2016 all Managed Web Presence Properties’ have been migrated to our new transactional email service. We only have a few more changes before our DMARC, DKIM, and SPF Rollout will change to the spam and unauthorized mail monitoring process.&#xA;Original: Starting on July 16, 2016, we are moving our Managed Web Presence Properties’ transactional email processing, to an enterprise class email service.&#xA;We are doing this as part of our DMARC, DKIM, and SPF rollout to improve email quality and cut down on spamming/spoofing of email addresses.</description>
+    </item>
+    <item>
+      <title>Scheduled Maintenance - July 17</title>
+      <link>http://localhost:1313/post/147446466768/scheduled-maintenance-july-17/</link>
+      <pubDate>Fri, 15 Jul 2016 00:19:07 -0500</pubDate>
+      <guid>http://localhost:1313/post/147446466768/scheduled-maintenance-july-17/</guid>
+      <description>Completed: After a late start, the maintenance has been completed successfully.&#xA;On July 17, 2016 starting at 1:00AM CDT we will be performing regular system maintenance on our Web and Mail Servers. We expect a few minutes of downtime, so that our servers can reboot.&#xA;Services Affected&#xA;Managed Website Services Websites and Web Applications Managed Mail Services IMAP Access SMTP Access Web Mail Access If you have any questions or concerns, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Closing the Story on our LA Data Center</title>
+      <link>http://localhost:1313/post/146672416561/closing-the-story-on-our-la-data-center/</link>
+      <pubDate>Wed, 29 Jun 2016 00:15:43 -0500</pubDate>
+      <guid>http://localhost:1313/post/146672416561/closing-the-story-on-our-la-data-center/</guid>
+      <description>On June 25, 2016 we have closed our Los Angeles Data Center after six years of service. Now the majority of our web services will be provided from our New York Data Center.&#xA;We would like to thank the staff at our Los Angeles Data Center for the help they have provided to us over the years.&#xA;Why the change&#xA;We decided to change our data center providers for many different reasons, the main reason is to provide our clients the best possible service.</description>
+    </item>
+    <item>
+      <title>MadSciTech.com Move</title>
+      <link>http://localhost:1313/post/144929551066/madscitechcom-move/</link>
+      <pubDate>Fri, 24 Jun 2016 00:09:36 -0500</pubDate>
+      <guid>http://localhost:1313/post/144929551066/madscitechcom-move/</guid>
+      <description>Status: Completed ✓ ✓ ✓&#xA;UPDATE June 24, 2016: MadSciTech.com has been successfully moved/migrated to our new and faster web server (NYC Data Center).&#xA;We’re still looking for bugs or problems, but everything looks good! If you spot an issue, please feel free to contact us.&#xA;UPDATE June 23, 2016: We have over come the blocker. We are in the process of transferring DNS and checking things out before releasing the floodgates to the new server.</description>
+    </item>
+    <item>
+      <title>MadSciTech.com Outage</title>
+      <link>http://localhost:1313/post/146301941756/madscitechcom-outage/</link>
+      <pubDate>Wed, 22 Jun 2016 00:08:31 -0500</pubDate>
+      <guid>http://localhost:1313/post/146301941756/madscitechcom-outage/</guid>
+      <description>On June 21, 2016 between 9:15PM until 9:50PM CDT, our company website (MadSciTech.com) was unavailable. The failure was due to a failure at our LA Data Center provider.&#xA;The source of the failure has not been announced or provided by our Data Center provider.&#xA;This failure only affected our company website. No client services were affected by this incident.&#xA;Our site was unavailable for approximately 40 minutes due to this unscheduled outage.</description>
+    </item>
+    <item>
+      <title>Web Server Fell-over - Oops</title>
+      <link>http://localhost:1313/post/145800108101/web-server-fell-over-oops/</link>
+      <pubDate>Sun, 12 Jun 2016 23:54:22 -0500</pubDate>
+      <guid>http://localhost:1313/post/145800108101/web-server-fell-over-oops/</guid>
+      <description>On June 12, 2016 at 6:27A our web server ran out of memory and temporarily crashed, causing websites on our Managed Web Presence Service to go offline. We quickly diagnosed and recovered the server and brought the server back up by 6:35A.&#xA;We are planning to do a memory upgrade on this particular server in the coming weeks, to prevent this problem from re-occurring. We will post an notice here and on our new status Twitter Account, for that particular upgrade.</description>
+    </item>
+    <item>
+      <title>Migration: Classic Managed Mail Hosting</title>
+      <link>http://localhost:1313/post/145678298136/migration-classic-managed-mail-hosting/</link>
+      <pubDate>Thu, 09 Jun 2016 23:49:00 -0500</pubDate>
+      <guid>http://localhost:1313/post/145678298136/migration-classic-managed-mail-hosting/</guid>
+      <description>Starting June 13, 2016 we will begin the process of migrating our older Managed Mail Hosting Services (Classic) to a new mail server.&#xA;If you do not know if your Managed Mail Service is affected, you can easily check your incoming/outgoing mail servers you use in your email client or webmail web address:&#xA;Classic Managed Mail Hosting Service (Affected Clients)&#xA;Incoming Server IMAP or POP3 Mail.YourDomain.com xpnv-rqhz.accessdomain.com Outgoing Server SMTP Mail.</description>
+    </item>
+    <item>
+      <title>Scheduled Maintenance - Completed</title>
+      <link>http://localhost:1313/post/145602670506/scheduled-maintenance/</link>
+      <pubDate>Wed, 08 Jun 2016 23:47:04 -0500</pubDate>
+      <guid>http://localhost:1313/post/145602670506/scheduled-maintenance/</guid>
+      <description>On Sunday, June 12, 2016 at 1:00 AM CDT we will perform a quick system reboot to complete the installation of updates.&#xA;We expect less than 5 minutes of downtime with this maintenance window.&#xA;Services Affected&#xA;Managed Web Services Websites and Web Applications Managed Mail Hosting IMAP Access SMTP Access Web Mail Access If you have any questions or concerns, please feel free to contact us.&#xA;Regular Scheduled and Preventive Maintenance</description>
+    </item>
+    <item>
+      <title>Scheduled Maintenance</title>
+      <link>http://localhost:1313/post/144548448534/scheduled-maintenance/</link>
+      <pubDate>Wed, 18 May 2016 23:45:33 -0500</pubDate>
+      <guid>http://localhost:1313/post/144548448534/scheduled-maintenance/</guid>
+      <description>Completed&#xA;On Sunday, May 22, 2016 at 1:00AM we will perform a quick system reboot to complete the installation of updates.&#xA;We expect less than 5 minutes of downtime with this maintenance window.&#xA;If you have any questions or concerns, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Resolved Outlook Mail Client</title>
+      <link>http://localhost:1313/post/144323358646/resolved-outlook-mail-client/</link>
+      <pubDate>Fri, 13 May 2016 23:43:58 -0500</pubDate>
+      <guid>http://localhost:1313/post/144323358646/resolved-outlook-mail-client/</guid>
+      <description>We have resolved an long standing issue with using Microsoft Outlook Mail Clients with our mail server. As of May 13, 2016 at 8PM, you may use Microsoft Outlook as your email client without issues.&#xA;The Problem is due to Outlook failing to provide the computer’s full name when authenticating with the mail server. Our mail service requires that all mail servers and clients to fully identify themselves to the server before accepting mail from them.</description>
+    </item>
+    <item>
+      <title>Resolved: Mailroute Issue</title>
+      <link>http://localhost:1313/post/144323127446/resolved-mailroute-issue/</link>
+      <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/144323127446/resolved-mailroute-issue/</guid>
+      <description>Between 2:30PM - 3:45PM Today (May 13, 2016), mail delivery from MailRoute.net servers were being bounced back when attempting to deliver mail to our mail server.&#xA;The Problem has been resolved and we have white-listed MailRoute on our network to prevent this problem from occurring again.&#xA;The Cause of the problem was do to a temporary issue between our mail server and MailRoute Server being miss identified as a malicious network.</description>
+    </item>
+    <item>
+      <title>Security Maintenance Window - Completed</title>
+      <link>http://localhost:1313/post/143813494351/security-maintenance-window/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/143813494351/security-maintenance-window/</guid>
+      <description>May 4, 2016 between 12:30A-1:30AM&#xA;Datacenter: NYC&#xA;We will be installing a critical security update on our servers during this maintenance window. There may be up to 5 minutes of downtime with this maintenance while servers restart.&#xA;Affected Services Managed Web Presence Managed Website Hosting Email Hosting IMAP Access SMTP Access Web Mail Access Incoming mail will be held while the mail server restarts.&#xA;If you have any questions, please feel free to reach out to us.</description>
+    </item>
+    <item>
+      <title>Scheduled Maintenance: System Updates (NYC) - Completed</title>
+      <link>http://localhost:1313/post/143119703220/scheduled-maintenance-system-updates-nyc/</link>
+      <pubDate>Wed, 20 Apr 2016 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/143119703220/scheduled-maintenance-system-updates-nyc/</guid>
+      <description>On Sunday, April 25, 2016 @ 1:00AM, we will be doing system maintenance for our Managed Services - for system updates. We expect between 5-15 Minutes of downtime with this maintenance window. The managed services will be unavailable for a few minutes while the servers restart. The services provided by each server will be unavailable for a short period of time while they restart.&#xA;Affected Services Managed Mail Service IMAP SMTP Web Mail Access Managed Web Presence Managed Web Sites Service Incoming mail will be held while the mail server restarts.</description>
+    </item>
+    <item>
+      <title>Service Overall Status</title>
+      <link>http://localhost:1313/post/137613461411/service-overall-status/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/137613461411/service-overall-status/</guid>
+      <description>Service Status Mad Scientist Technologies - Website Operational Account Portal Coming Soon! Managed Website / Web Applications Operational Content Distribution Network (CDN) Operational Database Servers Operational - Slowness* Mail Service Operational, Degradation** * Los Angeles Data Center Only&#xA;** Current Issue. Please See Ticket for more</description>
+    </item>
+    <item>
+      <title>AntiSpam: Implementation of DMARC</title>
+      <link>http://localhost:1313/post/142997714451/antispam-implementation-of-dmarc/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/142997714451/antispam-implementation-of-dmarc/</guid>
+      <description>Update (June 6, 2016): The status for this implementation project has been moved to it own page. Please track this at the following page: http://status.services.madscitech.net/projects-status/spf-dkim-dmarc-project/&#xA;TL;DR: We setup stuff to make imposter mail accounts a thing of the past. Scroll to the end of the article for the rollout schedule for your service(s).&#xA;We are planning to implement DMARC (Domain-based Message Authentication, Reporting &amp;amp; Conformance) Records across all our own and managed mail domains in the coming weeks.</description>
+    </item>
+    <item>
+      <title>Mail Deliverability to Hotmail</title>
+      <link>http://localhost:1313/post/142988891971/mail-deliverability-to-hotmail/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/142988891971/mail-deliverability-to-hotmail/</guid>
+      <description>[Open Issue]&#xA;As of April 17, 2016 at 10:15PM CDT. We started recieved reports that email messages destined for Hotmail/Outlook.com email addresses were not being delivered to Hotmail/Outlook.com email accounts.&#xA;Investigating April 17 @ 10:45PM&#xA;We have confirmed the issue and we’re currently looking into the problem. We will update this page as soon as we have additional information to share.&#xA;Working on it April 18 @ 1:00AM&#xA;We have reached out to Microsoft, but we must wait for them to gather and report data back to us.</description>
+    </item>
+    <item>
+      <title>Network Interruptions - LA Data Center</title>
+      <link>http://localhost:1313/post/142537533516/network-interruptions/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/142537533516/network-interruptions/</guid>
+      <description>Since 7:30AM CDT April 9, our data center provider has been experiencing network interruptions that has been causing connection issue to out managed services located in Los Angeles data center. We will update this post, when we have more information.&#xA;Services Affected Our Website A few managed websites HTTP, FTP, and SSH Connections Updates Update: As of April 9, 6:00PM CDT, The Data Center provider has not provided any status or update on this issue.</description>
+    </item>
+    <item>
+      <title>Outage: DNS Failure at Provider</title>
+      <link>http://localhost:1313/post/141607068681/outage-dns-failure-at-provider/</link>
+      <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/141607068681/outage-dns-failure-at-provider/</guid>
+      <description>March 24, 2016 @ 10:24AM&#xA;Our Datacenter provider has reported that they are having problems with connections to their DNS Servers and are current investigating the problem.&#xA;Our servers are still online, but with DNS unavailable connections/clients may be unable to connect to the site.&#xA;We will update this post with more details, as soon as we have more details.&#xA;March 24, 2016 @ 10:45AM&#xA;Our Datacenter provider has identity the failure and are working to resolve the connectivity issue their DNS Servers.</description>
+    </item>
+    <item>
+      <title>Rescheduled: Quick Server Reboots</title>
+      <link>http://localhost:1313/post/141542661096/quick-server-reboots/</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/141542661096/quick-server-reboots/</guid>
+      <description>We are planning to do a very quick system reboot on March 23, 2016 at 11:59PM CDT March 25, 2016 at 11:59PM CDT. We are doing this to complete the installation of some security patches. We expect only 1-2 minutes of downtime while our servers restart.&#xA;March 23, 2016 at 11:59PM: 1-2 Minutes of Downtime&#xA;March 25, 2016 at 11:59PM: 1-2 Minuntes of Downtime</description>
+    </item>
+    <item>
+      <title>Internal Network Changes</title>
+      <link>http://localhost:1313/post/140848360256/internal-network-changes/</link>
+      <pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/140848360256/internal-network-changes/</guid>
+      <description>We will be doing some internal network changes to prepare for our new mail service. Our client sites located on our new server may experience a few minutes of down time during this period, we would like to apologize in advance for the inconvenience.&#xA;Timeframe Starting 03:00 AM CST Ending 05:00 AM CST </description>
+    </item>
+    <item>
+      <title>Scheduled Network Maintenance</title>
+      <link>http://localhost:1313/post/140706452036/scheduled-network-maintenance/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/140706452036/scheduled-network-maintenance/</guid>
+      <description>There will be some network maintenance by our data center provider to the edge routers. This maintenance is being done to resolve some bugs and to increase performance of the routers.&#xA;We expect minimal impact to services, there may be minor latency and packet loss while the connections are re-routed.&#xA;Maintenance Windows:&#xA;Start: 2016-03-08 03:00 UTC (2016-03-07 10:00 EST) End: 2016-03-08 7:00 UTC (2016-03-08 02:00 EST) </description>
+    </item>
+    <item>
+      <title>Issue Database Server Oom</title>
+      <link>http://localhost:1313/post/140271922481/issue-database-server-oom/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/140271922481/issue-database-server-oom/</guid>
+      <description>At 6:38AM CST on March 1, 2016, we detected an issue with our database server which caused it to start refusing connections. Upon investigating the issue, we found that the server experienced an out of memory state. We resolved the problem by 7:19AM CST.&#xA;We will be taking steps to prevent this issue from recurring in the future.&#xA;We apologize for the problem.</description>
+    </item>
+    <item>
+      <title>Web Server Maintenance</title>
+      <link>http://localhost:1313/post/140143627461/web-server-maintenance/</link>
+      <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/140143627461/web-server-maintenance/</guid>
+      <description>We will be doing some emergency maintenance to our web server software to resolve an issue with unexpected loading behaviour on a few of our web properties. We expect a short amount of downtime, roughly 30 minutes. This will only affect sites located on our new server.&#xA;Maintenace Window Starting: February 27, 2016 @ 5:45AM CST Ending: February 27, 2016 @ 7:00AM CST Affected Services All HTTP Services WordPress Site New York Server Site We apologize for the disruption</description>
+    </item>
+    <item>
+      <title>Database Server Maintenance</title>
+      <link>http://localhost:1313/post/140129367541/database-server-maintenance/</link>
+      <pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/140129367541/database-server-maintenance/</guid>
+      <description>We will be doing some emergency database server maintenance on our database server, to resolve some memory issues and increase database performance.&#xA;The Maintenance Window: February 27, 2016 @ 11:15PM CST Affected Services Database Websites WordPress Sites We expect that this maintenance window to be completed by February 28 2016 - 12:30AM.&#xA;Update February 28, 2016 @ 12:00AM CST: Maintenance Completed</description>
+    </item>
+    <item>
+      <title>Scheduled Network Maintenance</title>
+      <link>http://localhost:1313/post/138781309261/scheduled-network-maintenance/</link>
+      <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/138781309261/scheduled-network-maintenance/</guid>
+      <description>There will be some network maintenance by our data center provider to the private networking between servers. They do not expect any impact to public-facing connectivity. Private Networking should not be interrupted except short periods of increased latency and minor packet loss.&#xA;Maintenance Window - 4.0 Hours&#xA;Feb 12, 2016 03:00 UTC - 7:00 UTC Feb 11, 2016 21:00 CST - Feburary 12, 2016 01:00 CST If you have any questions, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Managed Services Migration</title>
+      <link>http://localhost:1313/post/137614745146/managed-services-migration/</link>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/137614745146/managed-services-migration/</guid>
+      <description>In the coming weeks, we will be migrating our services to a new service provider to increase service performance and reliability.&#xA;This transition will take a few weeks to get going, but after the migration all our services will run faster and will be better off in the long run.&#xA;The following services will be affected:&#xA;Managed Websites and Web Applications Databases Email Service (See Note) CDN Service Mad Scientist Technologies Own Properties We do not expect major downtime for this transition, but we will inform each customer before their migration begins.</description>
+    </item>
+    <item>
+      <title>Database Server Slowness</title>
+      <link>http://localhost:1313/post/137613893901/database-server-slowness/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/137613893901/database-server-slowness/</guid>
+      <description>This is an ongoing issue with the current service provider. This issue will be corrected in an upcoming service provider change.</description>
+    </item>
+  </channel>
+</rss>

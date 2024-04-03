@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Implementation of SPF, DKIM, and DMARC for Managed Mail Services | Managed Services Status - Mad Scientist Technologies</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="Project Status: In Progress / Partial Delay
+Last Update: August 27, 2016
+The timeline for this project has slipped due to the more pressing issue of mail delivery issues to Outlook.com/Hotmail.com/Live.com.
+The timeline below will need to be re-evaluated due this delay. However we are happy to report that the majority of our Managed Mail Only Clients have been completely migrated to a full SPF, DKIM and DMARC Implementation. We are still monitoring the DMARC reports for problems before implementing the Quarantine and Reject functionality.">
+    <meta name="generator" content="Hugo 0.124.1">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/projects-status/spf-dkim-dmarc-project/">
+    
+
+    <meta property="og:title" content="Implementation of SPF, DKIM, and DMARC for Managed Mail Services" />
+<meta property="og:description" content="Project Status: In Progress / Partial Delay
+Last Update: August 27, 2016
+The timeline for this project has slipped due to the more pressing issue of mail delivery issues to Outlook.com/Hotmail.com/Live.com.
+The timeline below will need to be re-evaluated due this delay. However we are happy to report that the majority of our Managed Mail Only Clients have been completely migrated to a full SPF, DKIM and DMARC Implementation. We are still monitoring the DMARC reports for problems before implementing the Quarantine and Reject functionality." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/projects-status/spf-dkim-dmarc-project/" /><meta property="article:section" content="projects-status" />
+<meta property="article:published_time" content="2024-04-03T00:25:23-05:00" />
+<meta property="article:modified_time" content="2024-04-03T00:25:23-05:00" />
+<meta itemprop="name" content="Implementation of SPF, DKIM, and DMARC for Managed Mail Services">
+<meta itemprop="description" content="Project Status: In Progress / Partial Delay
+Last Update: August 27, 2016
+The timeline for this project has slipped due to the more pressing issue of mail delivery issues to Outlook.com/Hotmail.com/Live.com.
+The timeline below will need to be re-evaluated due this delay. However we are happy to report that the majority of our Managed Mail Only Clients have been completely migrated to a full SPF, DKIM and DMARC Implementation. We are still monitoring the DMARC reports for problems before implementing the Quarantine and Reject functionality."><meta itemprop="datePublished" content="2024-04-03T00:25:23-05:00" />
+<meta itemprop="dateModified" content="2024-04-03T00:25:23-05:00" />
+<meta itemprop="wordCount" content="782">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Implementation of SPF, DKIM, and DMARC for Managed Mail Services"/>
+<meta name="twitter:description" content="Project Status: In Progress / Partial Delay
+Last Update: August 27, 2016
+The timeline for this project has slipped due to the more pressing issue of mail delivery issues to Outlook.com/Hotmail.com/Live.com.
+The timeline below will need to be re-evaluated due this delay. However we are happy to report that the majority of our Managed Mail Only Clients have been completely migrated to a full SPF, DKIM and DMARC Implementation. We are still monitoring the DMARC reports for problems before implementing the Quarantine and Reject functionality."/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-dark-blue">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Managed Services Status - Mad Scientist Technologies
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+<div class="ananke-socials">
+  
+    
+    <a href="https://twitter.com/madscitechcloud" target="_blank" rel="noopener" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Projects-Statuses
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/projects-status/spf-dkim-dmarc-project/&amp;text=Implementation%20of%20SPF,%20DKIM,%20and%20DMARC%20for%20Managed%20Mail%20Services" class="ananke-social-link twitter no-underline" aria-label="share on Twitter">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Implementation of SPF, DKIM, and DMARC for Managed Mail Services</h1>
+      
+      <p class="tracked">
+        By <strong>Mad Scientist Technologies</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2024-04-03T00:25:23-05:00">April 3, 2024</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><strong>Project Status</strong>: In Progress / Partial Delay</p>
+<p><em>Last Update: August 27, 2016</em></p>
+<p>The timeline for this project has slipped due to the more pressing issue of mail delivery issues to Outlook.com/Hotmail.com/Live.com.</p>
+<p>The timeline below will need to be re-evaluated due this delay. However we are happy to report that the majority of our Managed Mail Only Clients have been completely migrated to a full SPF, DKIM and DMARC Implementation. We are still monitoring the DMARC reports for problems before implementing the Quarantine and Reject functionality.</p>
+<hr>
+<p>TL;DR: We setup stuff to make imposter mail accounts a thing of the past. Scroll to the end of the article for the rollout schedule for your service(s).</p>
+<p>We are planning to implement DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) Records across all our own and managed mail domains in the coming weeks.</p>
+<p><strong>Why are you implementing DMARC and What is it?</strong></p>
+<p>DMARC is an Internet Standard that is used to confirm that a email messages are truely from who it say it’s from. For example, when you a send email message to another mail server, the remote mail server can use DMARC records to confirm that your message is really from your mail server and not an imposter. If the message is not from the authorize mail server it will quarantine and send us reports on why it failed.</p>
+<p><strong>Affected Clients</strong></p>
+<p>This implementation process will take a few weeks to implement and should not cause too many problems for our managed mail customers.</p>
+<p>Our clients that have both Managed Mail and Web Presences on the other hand will have a slower rollout. The reason is with DMARC you must know and list all authorized hosts that can send email on behalf of your domain. If you use Email Service Providers (such as MailChimp, Amazon Web Services - Simple Email Service, Campaign Monitor, etc), web forms that send emails, and then your actual mail accounts - all these source must be included in the set of records that make DMARC.</p>
+<p>We will reach out to each our Managed Web Presence Clients individually to confirm issues will not arise during this process.</p>
+<hr>
+<p><strong>Implementation Schedule</strong></p>
+<p>Tentative Schedule for DKIM, SPF and DMARC Records Rollout</p>
+<ul>
+<li>June - Present: DMARC Monitoring</li>
+<li>Late September - December: Slow Ramp for Quarantine</li>
+<li>January 2017 - May 2017: Slow Ramp for Drop</li>
+</ul>
+<p>As of June 2016, all properties managed and/or hosted by us has it respective DKIM,SPF and DMARC records implemented. The DMARC records are only set to monitoring for problems with mail delivery. We are planning on gathering more information about mail traffic flows, before switching DMARC records to Quarantine or Drop mail.</p>
+<p>The rough plan is to start switching over to Quarantine before the end of 2016 and then implement Drop in Spring 2017.</p>
+<p>However, some domains may be delayed or fast tracked depending on that domain’s particular mail flows.</p>
+<p>If you have questions about this process, implementation, or any other questions, please feel free to reach out to us.</p>
+<hr>
+<p><strong>Update 6/6/2016: The Schedule Below is No Longer Current and Will Be Updated Soon.</strong></p>
+<p><del>The below is the tentative schedule for the implementation of DMARC on our managed services.</del></p>
+<ul>
+<li><del>Managed Mail Clients - Some properties may ramp faster, depending reports</del>
+<ul>
+<li><del>April 18, 2016: Initial Records Set (Monitor Only)</del></li>
+<li><del>May 2, 2016: Set to Quarantine 1% of Email that does not conform.</del></li>
+<li><del>May 5, 2016: Quarantine 5%</del></li>
+<li><del>May 9, 2016: Quarantine 10%</del></li>
+<li><del>May 12, 2016: Quarantine 25%</del></li>
+<li><del>May 23, 2016: Quarantine 50%</del></li>
+<li><del>May 30, 2016: Quarantine 75%</del></li>
+<li><del>June 13, 2016: Quarantine All - Mid Point</del></li>
+<li><del>June 16, 2016: Reject 1%</del></li>
+<li><del>June 23, 2016: Reject 5%</del></li>
+<li><del>June 30, 2016: Reject 10%</del></li>
+<li><del>July 5, 2016: Reject 25%</del></li>
+<li><del>July 7, 2016: Reject 50%</del></li>
+<li><del>July 11, 2016: Reject 75%</del></li>
+<li><del>July 18, 2016: Reject All - Complete</del></li>
+</ul>
+</li>
+<li><del>Managed Web Presence &amp; Mail Client - The ramp for these properties will be slower, depends on reports</del>
+<ul>
+<li><del>April 21, 2016: Initial Record Set (Monitor Only)</del></li>
+<li><del>May 5, 2016: Set to Quarantine 1% of Email that does not conform.</del></li>
+<li><del>May 12, 2016: Quarantine 5%</del></li>
+<li><del>May 19, 2016: Quarantine 10%</del></li>
+<li><del>May 26, 2016: Quarantine 25%</del></li>
+<li><del>June 2, 2016: Quarantine 50%</del></li>
+<li><del>June 6, 2016: Quarantine 75%</del></li>
+<li><del>June 9, 2016: Quarantine All - Mid Point</del></li>
+<li><del>June 20, 2016: Reject 1%</del></li>
+<li><del>June 23, 2016: Reject 5%</del></li>
+<li><del>June 27, 2016: Reject 10%</del></li>
+<li><del>June 30, 2016: Reject 25%</del></li>
+<li><del>July 7, 2016: Reject 50%</del></li>
+<li><del>July 14, 2016: Reject 75%</del></li>
+<li><del>July 21, 2016: Reject All - Complete</del></li>
+</ul>
+</li>
+</ul>
+<p><del>This schedule is tentative and may vary per client needs or results or the reporting mechanism of the DMARC Standard. We will report to each client when their implementation reach the following milestones:</del></p>
+<ul>
+<li><del>Quarantine 50%</del></li>
+<li><del>Quarantine All</del></li>
+<li><del>Reject 25%</del></li>
+<li><del>Reject 75%</del></li>
+<li><del>Reject All</del></li>
+</ul>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-dark-blue bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
+    &copy;  Managed Services Status - Mad Scientist Technologies 2024 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+    
+    <a href="https://twitter.com/madscitechcloud" target="_blank" rel="noopener" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

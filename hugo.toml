@@ -1,0 +1,23 @@
+baseURL = 'https://status.services.madscitech.net/'
+languageCode = 'en-us'
+title = 'Managed Services Status - Mad Scientist Technologies'
+theme = 'ananke'
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/madscitechcloud"
+
+[[sitemap]]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+author = "Mad Scientist Technologies"
+description = "MadSciTech Managed Service Status Page"
+background_color_class = "bg-dark-blue"
+recent_posts_number = 20
+
+# Allow HTML
+[markup.goldmark.renderer]
+unsafe=true

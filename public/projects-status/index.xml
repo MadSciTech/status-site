@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects-Statuses on Managed Services Status - Mad Scientist Technologies</title>
+    <link>http://localhost:1313/projects-status/</link>
+    <description>Recent content in Projects-Statuses on Managed Services Status - Mad Scientist Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Apr 2024 00:25:23 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects-status/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementation of SPF, DKIM, and DMARC for Managed Mail Services</title>
+      <link>http://localhost:1313/projects-status/spf-dkim-dmarc-project/</link>
+      <pubDate>Wed, 03 Apr 2024 00:25:23 -0500</pubDate>
+      <guid>http://localhost:1313/projects-status/spf-dkim-dmarc-project/</guid>
+      <description>Project Status: In Progress / Partial Delay&#xA;Last Update: August 27, 2016&#xA;The timeline for this project has slipped due to the more pressing issue of mail delivery issues to Outlook.com/Hotmail.com/Live.com.&#xA;The timeline below will need to be re-evaluated due this delay. However we are happy to report that the majority of our Managed Mail Only Clients have been completely migrated to a full SPF, DKIM and DMARC Implementation. We are still monitoring the DMARC reports for problems before implementing the Quarantine and Reject functionality.</description>
+    </item>
+  </channel>
+</rss>
