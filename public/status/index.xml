@@ -17,9 +17,9 @@
     </item>
     <item>
       <title>Previous Events</title>
-      <link>http://localhost:1313/status/first/</link>
+      <link>http://localhost:1313/status/previous-events/</link>
       <pubDate>Tue, 02 Apr 2024 22:26:17 -0500</pubDate>
-      <guid>http://localhost:1313/status/first/</guid>
+      <guid>http://localhost:1313/status/previous-events/</guid>
       <description>Due to changing platforms for this service, and our goal maintaining old URLs for archived purposes, our older entries can be found: https://status.madscitech.net/post/.&#xA;All entries between January 2016 - March 2024 can be found at the above link.</description>
     </item>
   </channel>
