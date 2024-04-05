@@ -6,8 +6,15 @@
     <description>Recent content on Managed Services Status - Mad Scientist Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Apr 2024 13:45:21 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 14:16:04 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMARC Implementation Project</title>
+      <link>http://localhost:1313/projects/dmarc/</link>
+      <pubDate>Fri, 05 Apr 2024 14:16:04 -0500</pubDate>
+      <guid>http://localhost:1313/projects/dmarc/</guid>
+      <description>Project Status: In Progress (Partially Completed)&#xA;Goal/Additional Information The Implementation of DMARC Standard/Records (DMARC, DKIM, SPF) for all email messaging services managed by Mad Scientist Technologies.&#xA;Additional information about DMARC, DKIM, and SPF can be found on the original project page.&#xA;Questions about this project, contact us.&#xA;Project Time Last Updated: April 2024&#xA;Managed Domains - Clients SPF/DKIM Status Completed/Fully Implemented DMARC Status Records Implemented Status: Monitoring Message Percentage: 100% Disposition on Failing Messages: None We will start moving managed domains to the next step, Quarantine, during the month of April 2024.</description>
+    </item>
     <item>
       <title>Data Center Maintenance Window for 2024-04-16</title>
       <link>http://localhost:1313/status/dc-maintenance-2024-04-16/</link>

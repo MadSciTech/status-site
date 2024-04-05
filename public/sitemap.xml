@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/status/dc-maintenance-2024-04-16/</loc>
-    <lastmod>2024-04-05T13:45:21-05:00</lastmod>
+    <loc>http://localhost:1313/projects/dmarc/</loc>
+    <lastmod>2024-04-05T14:16:04-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-05T14:16:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-04-05T14:16:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/status/dc-maintenance-2024-04-16/</loc>
     <lastmod>2024-04-05T13:45:21-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/status/</loc>
@@ -14,16 +20,13 @@
     <loc>http://localhost:1313/projects/first/</loc>
     <lastmod>2024-04-03T01:13:09-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-04-03T01:13:09-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects-status/spf-dkim-dmarc-project/</loc>
     <lastmod>2024-04-03T00:25:23-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects-status/</loc>
     <lastmod>2024-04-03T00:25:23-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/status/first/</loc>
+    <loc>http://localhost:1313/status/previous-events/</loc>
     <lastmod>2024-04-02T22:26:17-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
