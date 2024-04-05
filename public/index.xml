@@ -6,8 +6,15 @@
     <description>Recent content on Managed Services Status - Mad Scientist Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Apr 2024 01:13:09 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 13:45:21 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Center Maintenance Window for 2024-04-16</title>
+      <link>http://localhost:1313/status/dc-maintenance-2024-04-16/</link>
+      <pubDate>Fri, 05 Apr 2024 13:45:21 -0500</pubDate>
+      <guid>http://localhost:1313/status/dc-maintenance-2024-04-16/</guid>
+      <description>Maintenance Window:&#xA;Start: 2024-04-16 11:00 UTC / April 16 - 6:00 AM CDT End: 2024-04-16 13:00 UTC / April 16 - 8:00 AM CDT During the above Maintenance Window our Data Center Provider will be performing core network improvements in our primary data center locations.&#xA;There is no expected downtime or outage during this window. However, there may be an increase latency or a minor disruption in network traffic for 2-3 minutes.</description>
+    </item>
     <item>
       <title>First</title>
       <link>http://localhost:1313/projects/first/</link>
@@ -23,11 +30,11 @@
       <description>Project Status: In Progress / Partial Delay&#xA;Last Update: August 27, 2016&#xA;The timeline for this project has slipped due to the more pressing issue of mail delivery issues to Outlook.com/Hotmail.com/Live.com.&#xA;The timeline below will need to be re-evaluated due this delay. However we are happy to report that the majority of our Managed Mail Only Clients have been completely migrated to a full SPF, DKIM and DMARC Implementation. We are still monitoring the DMARC reports for problems before implementing the Quarantine and Reject functionality.</description>
     </item>
     <item>
-      <title>First</title>
+      <title>Previous Events</title>
       <link>http://localhost:1313/status/first/</link>
       <pubDate>Tue, 02 Apr 2024 22:26:17 -0500</pubDate>
       <guid>http://localhost:1313/status/first/</guid>
-      <description></description>
+      <description>Due to changing platforms for this service, and our goal maintaining old URLs for archived purposes, our older entries can be found: https://status.madscitech.net/post/.&#xA;All entries between January 2016 - March 2024 can be found at the above link.</description>
     </item>
     <item>
       <title>Regularly Scheduled Server Maintenance</title>
