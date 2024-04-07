@@ -6,8 +6,197 @@
     <description>Recent content in Posts on Managed Services Status - Mad Scientist Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2017 00:54:16 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSL Site Outage</title>
+      <link>http://localhost:1313/post/186579707086/ssl-site-outage/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/186579707086/ssl-site-outage/</guid>
+      <description>Starting at 11:00PM on July 26, 2019, many of our online services became unavailable due to expired security certificates.&#xA;This issue was caused by a silently failing scheduled task that would normally renew the certificates automatically and a notification system failing to send warnings about the expiration of said certificates.&#xA;It came to our attention at 1:30AM July 27, 2019 that the services were unavailable, we remedy the issue by 1:40AM.</description>
+    </item>
+    <item>
+      <title>Phase Two Maintenance</title>
+      <link>http://localhost:1313/post/185005298251/phase-two-maintenance/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/185005298251/phase-two-maintenance/</guid>
+      <description>We have rescheduled phase two of server maintenance until the week of May 20 further notice. We will update this post with more details.&#xA;Mad Scientist Technologies Infrastructure Team </description>
+    </item>
+    <item>
+      <title>Schedule Maintenance Major Upgrades</title>
+      <link>http://localhost:1313/post/184914789226/schedule-maintenance-major-upgrades/</link>
+      <pubDate>Thu, 16 May 2019 20:04:09 -0500</pubDate>
+      <guid>http://localhost:1313/post/184914789226/schedule-maintenance-major-upgrades/</guid>
+      <description>Stage One - COMPLETED Start: May 17, 2019 @ 11:00PM CDT (4:00AM UTC)&#xA;End: May 18, 2019 @ 6:00AM CDT (11:00AM UTC)&#xA;Estimated Downtime: 7.0 Hours&#xA;Maintenance Delayed Due to last minutes schedule changes, Stage One Maintenance has been delayed 2 ½ hours.&#xA;Thus the new Maintenance window for stage one will be:&#xA;May 18 1:30AM - 8:00AM&#xA;Updates 10:00A: Managed Web Services are fully back online. 9:50A: Managed Mail Services has return to it regular system 5:00A-9:00A: Managed Web Services continue to be worked on to bring system to a stable state.</description>
+    </item>
+    <item>
+      <title>Server Maintenance</title>
+      <link>http://localhost:1313/post/183596763161/server-maintenance/</link>
+      <pubDate>Wed, 20 Mar 2019 20:04:09 -0500</pubDate>
+      <guid>http://localhost:1313/post/183596763161/server-maintenance/</guid>
+      <description>Start: March 24, 2019 @ 11:00PM&#xA;End: March 25, 2019 @ 4:00AM&#xA;Total Time: 5.0 Hours&#xA;UPDATE: Completed after a scheduling conflict&#xA;We will be performing a server upgrade during the above maintenance window.&#xA;We expect less than 10 minutes of downtime for the following services:&#xA;Managed Web Hosting Services Managed Mail Services Webmail Access IMAP/SMTP Mail Access If you have any questions or concerns, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>DC Network Maintenance</title>
+      <link>http://localhost:1313/post/183596381726/dc-network-maintenance/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/183596381726/dc-network-maintenance/</guid>
+      <description>Start: March 28, 2019 @ 9:00 PM CDT&#xA;End: March 29, 2019 @ 12:00 AM CDT&#xA;Total Time: 5 Hours&#xA;Our Data Center provider will be upgrading core networking equipment to improve performance.&#xA;We expect no impact to traffic or service availability during this maintenance window.&#xA;If you have questions or concerns, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>DC Network Maintenance</title>
+      <link>http://localhost:1313/post/178034209671/dc-network-maintenance/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/178034209671/dc-network-maintenance/</guid>
+      <description>Start: 2018-09-20 9:00PM CDT&#xA;End: 2018-09-21 3:00AM CDT&#xA;Our Data Center Provider will be performing some network maintenance. This maintenance will be upgrading core networking equipment that will increase performance and reliability.&#xA;During the maintenance window, there may be some packet loss and increased latency, while traffic is re-routed.&#xA;If you have questions, please feel free to contact us.&#xA;Rescheduled from Sept 20, 5-11PM</description>
+    </item>
+    <item>
+      <title>DC Network Maintenance</title>
+      <link>http://localhost:1313/post/176053636626/dc-network-maintenance/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/176053636626/dc-network-maintenance/</guid>
+      <description>Start: 2018-07-25 21:00 or 9:00PM CDT&#xA;End: 2018-07-26 03:00 or 3:00AM CDT&#xA;Our Data Center Provider will be performing some network maintenance. This maintenance will be upgrading core networking equipment that will increase performance and reliability.&#xA;During the maintenance window, there may be some packet loss and increased latency, while traffic is re-routed.&#xA;If you have questions, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Server Maintenance</title>
+      <link>http://localhost:1313/post/175333781281/server-maintenance/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/175333781281/server-maintenance/</guid>
+      <description>Start: 2018-06-30 at 16:00 CDT (4PM)&#xA;End: 2018-07-01 at 03:00 CDT (3AM) 5:30AM&#xA;COMPLETED Updates below&#xA;Starting on June 30, 2018 at 4PM we will be conducting some wide ranging service maintenance on the following services:&#xA;Managed Web Hosting Services Managed Mail Hosting Services Webmail Interface for Managed Mail Service Implementation of new services We expect minor downtime with this maintenance window, up to 15 minutes of downtime between 11PM - 1AM.</description>
+    </item>
+    <item>
+      <title>Webmail Upgrade</title>
+      <link>http://localhost:1313/post/173076549206/webmail-upgrade/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/173076549206/webmail-upgrade/</guid>
+      <description>Start: 2018-04-21 at 11:30 CDT&#xA;End: 2018-04-22 at 01:30 CDT&#xA;Starting on April 21, 2018 at 11:30pm, we will be upgrading our webmail interface (https://mail.services.madscitech.net).&#xA;We expect this maintenance window to take one hour with the service being unavailable during this process.&#xA;Mail services, will not be affected.&#xA;We will post updates here and on Twitter. If you have questions, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Server Upgrade</title>
+      <link>http://localhost:1313/post/172097772646/server-upgrade-start-2018-03-24-at-0100am-cdt/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/172097772646/server-upgrade-start-2018-03-24-at-0100am-cdt/</guid>
+      <description>Start: 2018-03-24 at 01:00AM CDT&#xA;End: 2018-03-24 at 03:00AM CDT&#xA;Successfully Completed Total Downtime: 22 Minutes&#xA;Updates 01:00 CDT - Maintenance Started 02:45 CDT - Announced that Upgrades are taking longer than expected. New end time is 5:00AM CDT, with next update at 3:30AM. 03:30 CDT - Backup Verification before continuing with upgrades. Next update will be no later than 4AM. 03:40 CDT - Taking machine offline for upgrades. 04:00 CDT - Upgrades are in process, next update at 4:15AM.</description>
+    </item>
+    <item>
+      <title>Webmail Upgrade</title>
+      <link>http://localhost:1313/post/172019141396/webmail-upgrade-start-2018-03-19-at-0015-cdt/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/172019141396/webmail-upgrade-start-2018-03-19-at-0015-cdt/</guid>
+      <description>Start: 2018-03-19 at 00:15 CDT&#xA;End: 2018-03-19 at 01:30 CDT&#xA;Successfully completed at 1:00AM&#xA;Starting on March 19, 2018 at 12:15am, we will be upgrading our webmail interface (https://mail.services.madscitech.net).&#xA;We expect this maintenance window to take one hour with the service being unavailable during this process.&#xA;The mail service it self will not be affected.&#xA;We will post updates here and on Twitter. If you have questions, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Meltdown and Spectre Mitigation Maintenance - Part Two (Take Three)</title>
+      <link>http://localhost:1313/post/171824010131/meltdown-and-spectre-mitigation-maintenance-part/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/171824010131/meltdown-and-spectre-mitigation-maintenance-part/</guid>
+      <description>Start: March 12 2018 @ 12:00PM CDT (17:00 UTC)&#xA;End: March 12 2018 @ 1:00PM CDT (18:00 UTC)&#xA;Est. Downtime: 20 Minutes&#xA;Completed: Total Downtime ~ 10 Minutes&#xA;This is the third attempt to complete the schedule maintenance that was suppose to occur on Monday, March 7.&#xA;Background Our data center provider has informed us that they will be implementing a fix for the recent Spectre and Meltdown vulnerabilities that affect our servers.</description>
+    </item>
+    <item>
+      <title>Meltdown and Spectre Mitigation Maintenance - Part Two (Take Two)</title>
+      <link>http://localhost:1313/post/171606426646/meltdown-and-spectre-mitigation-maintenance-part/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/171606426646/meltdown-and-spectre-mitigation-maintenance-part/</guid>
+      <description>Start: March 7 2018 @ 2:00PM CST (20:00 UTC)&#xA;End: March 7 2018 @ 3:00PM CST (21:00 UTC)&#xA;Est. Downtime: 20 Minutes&#xA;Has been postponed until March 12, more details coming later.&#xA;This is the second attempt to complete the schedule maintenance that was support to occur on Monday, March 5.&#xA;Background Our data center provider has informed us that they will be implementing a fix for the recent Spectre and Meltdown vulnerabilities that affect our servers.</description>
+    </item>
+    <item>
+      <title>Meltdown and Spectre Mitigation Maintenance - Part Three</title>
+      <link>http://localhost:1313/post/171558306405/meltdown-and-spectre-mitigation-maintenance-part/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/171558306405/meltdown-and-spectre-mitigation-maintenance-part/</guid>
+      <description>Start: March 6 2018 @ 19:00 (7PM) CST (March 7, 01:00 UTC)&#xA;End: March 6 2018 @ 20:00 (9PM) CST (March 7, 03:00 UTC)&#xA;Our datacenter provider has informed us that another maintenance window will be open during the above time to implement additional mitigation against the Meltdown and Spectre Exploits.&#xA;No actual downtime is expected, however network traffic may see higher than normal latency.&#xA;We will post updates here on this site and our Twitter Account.</description>
+    </item>
+    <item>
+      <title>Meltdown and Spectre Mitigation Maintenance - Part Two</title>
+      <link>http://localhost:1313/post/171551953816/meltdown-and-spectre-mitigation-maintenance-part/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/171551953816/meltdown-and-spectre-mitigation-maintenance-part/</guid>
+      <description>Start: March 5, 2018 @ 1:00PM CST (19:00UTC)&#xA;End: March 5, 2018 @ 2:00PM CST (20:00UTC)&#xA;Est. Downtime: 20 Minutes&#xA;Update: March 5 @ 1:30PM&#xA;POSTPONED&#xA;Due to an technical issue the datacenter provider has postponed this maintenance window. We will post an update when the new maintenance window is announced.&#xA;Our data center provider has informed us that they will be implementing a fix for the recent Spectre and Meltdown vulnerabilities that affect our servers.</description>
+    </item>
+    <item>
+      <title>Meltdown and Spectre Mitigation Maintenance - Part One</title>
+      <link>http://localhost:1313/post/171008188391/meltdown-and-spectre-mitigation-maintenance-part/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/171008188391/meltdown-and-spectre-mitigation-maintenance-part/</guid>
+      <description>Start: February 20, 2018 @ 1:00PM CST (19:00UTC)&#xA;End: February 20, 2018 @ 2:00PM CST (20:00UTC)&#xA;Update: Completed with only 20 minutes of downtime.&#xA;Our data center provider has informed us that they will be implementing a fix for the recent Spectre and Meltdown vulnerabilities that affect our servers.&#xA;This will cause some downtime for some of our services. This will be one of many scheduled maintenance windows to attempt to mitigate these vulnerbilities.</description>
+    </item>
+    <item>
+      <title>Data Center Network Maintenance</title>
+      <link>http://localhost:1313/post/167429207511/data-center-network-maintenance/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/167429207511/data-center-network-maintenance/</guid>
+      <description>Our data center provider will be doing some pro-active network maintenance, November 13, 2017 starting at 07:00 PM CST (November 14, 2017 at 02:00 AM UTC). This maintenance window is expected to take two hours, with minor interruption to services.&#xA;If you have questions or concerns, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Server Maintenance</title>
+      <link>http://localhost:1313/post/164706384466/server-maintenance/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/164706384466/server-maintenance/</guid>
+      <description>Starting at 1:30AM on August 28, 2017 - We will be doing server maintenance on our servers.&#xA;We expect only minor downtime (less than five minutes).&#xA;Affected Services: Web Hosting Mail Hosting Update: Maintenance Completed at 7:00AM on August 28, 2017. We had some minor issues that caused a 15 Minutes of downtime while doing work on our web server, which deeply apologize.&#xA;If you have questions or concerns, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Web Server Outage</title>
+      <link>http://localhost:1313/post/164708370791/web-server-outage/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/164708370791/web-server-outage/</guid>
+      <description>During our server maintenance of our web server, an issue occurred that has caused the web server to stop responding. We are working as fast as possible to restore service.&#xA;We will update this post shortly…&#xA;Update: Aug 28 @ 6:17AM - Web Server has recovered. Websites should be accessible now without issue.&#xA;Cause: The cause was due to a retired configuration file being in wrong place. We apologize for the downtime.</description>
+    </item>
+    <item>
+      <title>July 17 2017 - Network Outage Postmortem</title>
+      <link>http://localhost:1313/post/163188246336/july-17-2017-network-outage-postmortem/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/163188246336/july-17-2017-network-outage-postmortem/</guid>
+      <description>On Monday, July 17, 2017, starting at 9:40 PM (CDT) our primary web server started to experience network connectivity loss. We immediately started troubleshooting the issue, we found that we couldn’t connect the server and the network path to the data center was unavailable.&#xA;We contacted our data center, provider. At 9:53 PM (CDT) we received confirmation that there is a network outage currently in process.&#xA;At 9:55 PM (CDT) our Managed Web Services came back online, slowly at first.</description>
+    </item>
+    <item>
+      <title>Scheduled Maintenance</title>
+      <link>http://localhost:1313/post/162158253036/scheduled-maintenance/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/162158253036/scheduled-maintenance/</guid>
+      <description>Rescheduled Maintenance Window&#xA;On June 28, 2017 starting at 11:00PM til 3:00AM we will be conducting some system maintenance. We expect some few minutes of downtime while conducting this maintenance.&#xA;Affected Services&#xA;Website Hosting Email Services If you have any questions or concerns, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Scheduled Maintenance</title>
+      <link>http://localhost:1313/post/159166593046/scheduled-maintenance/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/159166593046/scheduled-maintenance/</guid>
+      <description>Update April 4 @ 4:20A: Maintenance Completed&#xA;On April 3, 2017 starting at 11:00PM until 2:00AM we will be preforming some maintenance on our servers. We expect about 10 minutes of downtime with this maintenance.&#xA;Affected Services:&#xA;Website Hosting Email Services If you have questions or concerns, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Data Center Network Maintenance</title>
+      <link>http://localhost:1313/post/158961285181/data-center-network-maintenance/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/158961285181/data-center-network-maintenance/</guid>
+      <description>Our data center provider will be doing some pro-active network maintenance, March 30, 2017 starting at 01:00 AM CDT (March 30, 2017 at 06:00 AM UTC). This maintenance window is expected to take one hour, with minor interruption to services.&#xA;If you have questions or concerns, please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Scheduled Regular Maintenance</title>
+      <link>http://localhost:1313/post/158735533401/scheduled-regular-maintenance/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/158735533401/scheduled-regular-maintenance/</guid>
+      <description>On March 26 11:50PM to March 27 2:00AM we will be doing some required maintenance on our servers. We expect about five minutes of downtime with this maintenance.&#xA;Affected Services&#xA;Web Hosting Mail Services If you have questions or concerns, please feel free to contact us.&#xA;All Times are in Central Daylight Time (CDT)</description>
+    </item>
+    <item>
+      <title>Data Center Network Maintenance</title>
+      <link>http://localhost:1313/post/158657861581/data-center-network-maintenance/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/158657861581/data-center-network-maintenance/</guid>
+      <description>We have been informed by our data center provider, that they will be performing network maintenance.&#xA;The maintenance window:&#xA;Start: March 24, 2017 - 02:00 UTC / March 23, 2017 21:00 CDT End: March 24, 2017 - 12:00 UTC / March 24, 2017 07:00 CDT Affected Services:&#xA;Web Site Hosting We have been informed to expect 10 minutes of downtime, but it may last longer depending on outside factors. We will update this post and our Twitter account with additional information, when available.</description>
+    </item>
+    <item>
+      <title>Amazon S3 Outage</title>
+      <link>http://localhost:1313/post/157831503586/amazon-s3-outage/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/157831503586/amazon-s3-outage/</guid>
+      <description>Starting around 1PM February 28, 2017 Amazon Web Services Simple Storage Service (S3) started experiencing high error rates, which is causing the unavailability of some of our static resource (Images, Scripts, Files, Downloads, etc).&#xA;Amazon is currently looking into the issue and we will post an update as soon as we know more.&#xA;Update: Amazon S3 Outage has been resolved by 5:30PM CST</description>
+    </item>
+    <item>
+      <title>Minor Software Upgrade</title>
+      <link>http://localhost:1313/post/156885536966/minor-software-upgrade/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/156885536966/minor-software-upgrade/</guid>
+      <description>Completed Update (Feb 13): We have decided to do this upgrade is parts, we have completed the initial process. Another maintenance window will be announced soon to continue this process.&#xA;On Sunday, February 12 starting at 11PM we will be doing some minor software upgrades on our servers.&#xA;We do not expect any downtime from this maintenance, however if there is any downtime it would be less than five minutes. Which we will update this post and our twitter feed, if we need the downtime.</description>
+    </item>
     <item>
       <title>Regularly Scheduled Server Maintenance</title>
       <link>http://localhost:1313/post/156638474626/regularly-scheduled-server-maintenance/</link>

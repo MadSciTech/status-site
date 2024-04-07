@@ -29,8 +29,80 @@
     <loc>http://localhost:1313/status/previous-events/</loc>
     <lastmod>2024-04-02T22:26:17-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/post/183596381726/dc-network-maintenance/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2017-01-31T00:54:16-05:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/183596763161/server-maintenance/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/178034209671/dc-network-maintenance/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/176053636626/dc-network-maintenance/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/175333781281/server-maintenance/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/173076549206/webmail-upgrade/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/172097772646/server-upgrade-start-2018-03-24-at-0100am-cdt/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/172019141396/webmail-upgrade-start-2018-03-19-at-0015-cdt/</loc>
+    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/171824010131/meltdown-and-spectre-mitigation-maintenance-part/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/171606426646/meltdown-and-spectre-mitigation-maintenance-part/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/171558306405/meltdown-and-spectre-mitigation-maintenance-part/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/171551953816/meltdown-and-spectre-mitigation-maintenance-part/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/171008188391/meltdown-and-spectre-mitigation-maintenance-part/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/167429207511/data-center-network-maintenance/</loc>
+    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/164706384466/server-maintenance/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/164708370791/web-server-outage/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/163188246336/july-17-2017-network-outage-postmortem/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/162158253036/scheduled-maintenance/</loc>
+    <lastmod>2017-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/159166593046/scheduled-maintenance/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/158961285181/data-center-network-maintenance/</loc>
+    <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/158735533401/scheduled-regular-maintenance/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/158657861581/data-center-network-maintenance/</loc>
+    <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/157831503586/amazon-s3-outage/</loc>
+    <lastmod>2017-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/156885536966/minor-software-upgrade/</loc>
+    <lastmod>2017-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/156638474626/regularly-scheduled-server-maintenance/</loc>
     <lastmod>2017-01-31T00:54:16-05:00</lastmod>
