@@ -2,8 +2,13 @@
 title = 'DMARC Implementation Project'
 date = 2024-04-05T14:16:04-05:00
 draft = true
+aliases = ['/projects/email-dmarc-status']
 +++
 **Project Status**: In Progress (Partially Completed)
+
+* Client Domains: 
+  * Current: Monitoring DMARC Reports
+  * Changing: April 15-20 Monitoring + Quartintine 
 
 ## Goal/Additional Information
 
@@ -29,7 +34,7 @@ Last Updated: April 2024
 
 We will start moving managed domains to the next step, Quarantine, during the month of April 2024. After this implementation, we will continue to monitor for another month or two before moving to the final level - Reject.
 
-### Managed Domains - Self
+### MadSciTech Domains
 
 * SPF/DKIM Status
     * Completed/Fully Implemented

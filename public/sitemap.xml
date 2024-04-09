@@ -29,13 +29,85 @@
     <loc>http://localhost:1313/status/previous-events/</loc>
     <lastmod>2024-04-02T22:26:17-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/183596381726/dc-network-maintenance/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-02T00:29:03-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/746680619607736320/update-to-status-site/</loc>
+    <lastmod>2024-04-02T00:29:03-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/746679870900355072/april-2-2024-brief-outage/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/722957857154301952/mail-service-outage/</loc>
+    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/707757767575945216/service-outage-jan-28-2023/</loc>
+    <lastmod>2023-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/705544606117429248/dc-maintenance-window/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/692870562772566016/maintenance-window/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/692870796367020032/webmail-upgrade/</loc>
+    <lastmod>2022-08-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/671895788826263552/server-maintenance/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/659437503743426560/web-and-mail-service-outage/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/656929601714569216/outage-sdn-controller-unavailable/</loc>
+    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/653487765738110976/outage-on-june-8-2021/</loc>
+    <lastmod>2021-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/651715913439150080/web-server-mail-delivery/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/638839986117115904/server-maintenance/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/628860277804433408/internal-data-center-updates/</loc>
+    <lastmod>2020-09-10T00:01:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/628859856876716032/data-center-maintenance-hypervisor/</loc>
+    <lastmod>2020-09-10T00:01:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/628858851896311808/managed-mail-service-outage-post-morten/</loc>
+    <lastmod>2020-09-10T00:01:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/626964237445660672/data-center-maintenance/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/619790636121571328/data-center-maintenance/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/619341782866608128/quick-server-maintenance/</loc>
+    <lastmod>2020-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/618615595768905728/data-center-maintenance/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/186580024326/server-maintenance/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/186579707086/ssl-site-outage/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/185005298251/phase-two-maintenance/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/184914789226/schedule-maintenance-major-upgrades/</loc>
+    <lastmod>2019-05-16T20:04:09-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/183596763161/server-maintenance/</loc>
+    <lastmod>2019-03-20T20:04:09-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/183596381726/dc-network-maintenance/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/178034209671/dc-network-maintenance/</loc>

@@ -13,7 +13,7 @@
       <link>http://localhost:1313/projects/dmarc/</link>
       <pubDate>Fri, 05 Apr 2024 14:16:04 -0500</pubDate>
       <guid>http://localhost:1313/projects/dmarc/</guid>
-      <description>Project Status: In Progress (Partially Completed)&#xA;Goal/Additional Information The Implementation of DMARC Standard/Records (DMARC, DKIM, SPF) for all email messaging services managed by Mad Scientist Technologies.&#xA;Additional information about DMARC, DKIM, and SPF can be found on the original project page.&#xA;Questions about this project, contact us.&#xA;Project Time Last Updated: April 2024&#xA;Managed Domains - Clients SPF/DKIM Status Completed/Fully Implemented DMARC Status Records Implemented Status: Monitoring Message Percentage: 100% Disposition on Failing Messages: None We will start moving managed domains to the next step, Quarantine, during the month of April 2024.</description>
+      <description>Project Status: In Progress (Partially Completed)&#xA;Client Domains: Current: Monitoring DMARC Reports Changing: April 15-20 Monitoring + Quartintine Goal/Additional Information The Implementation of DMARC Standard/Records (DMARC, DKIM, SPF) for all email messaging services managed by Mad Scientist Technologies.&#xA;Additional information about DMARC, DKIM, and SPF can be found on the original project page.&#xA;Questions about this project, contact us.&#xA;Project Time Last Updated: April 2024&#xA;Managed Domains - Clients SPF/DKIM Status Completed/Fully Implemented DMARC Status Records Implemented Status: Monitoring Message Percentage: 100% Disposition on Failing Messages: None We will start moving managed domains to the next step, Quarantine, during the month of April 2024.</description>
     </item>
     <item>
       <title>First</title>
