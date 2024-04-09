@@ -62,7 +62,7 @@
       <link>http://localhost:1313/post/722957857154301952/mail-service-outage/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/722957857154301952/mail-service-outage/</guid>
-      <description>At 6:50PM CDT on July 15, 2023 our monitoring system detected our mail server went offline. We are currently investigating the issue and will update this post with details.&#xA;Updates&#xA;6:50PM - Outage Start/Investigation Starts 6:55PM - Found Network Issue with Mail Server 7:05PM - Data Center Provider informed of unscheduled maintenance on host server 7:47PM - Data Center Provider informed us that the physical server that is running our mail service has failed.</description>
+      <description>&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD At 6:50PM CDT on July 15, 2023 our monitoring system detected our mail server went offline. We are currently investigating the issue and will update this post with details. At 6:50PM CDT on July 15, 2023 our monitoring system detected our mail server go offline. We are currently investigating the issue and will update this post with details.&#xA;aaa80273964d7f34673bff898e8e97c32b4ee2fc&#xA;Updates&#xA;6:50PM - Outage Start/Investigation Starts 6:55PM - Found Network Issue with Mail Server 7:05PM - Data Center Provider informed of unscheduled maintenance on host server &amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD 7:47PM - Data Center Provider informed us that the physical server that is running our mail service has failed.</description>
     </item>
     <item>
       <title>Service Outage - Jan 28 2023</title>
