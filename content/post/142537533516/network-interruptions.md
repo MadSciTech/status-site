@@ -1,7 +1,6 @@
 +++
 title = 'Network Interruptions - LA Data Center'
 date = 2016-04-09
-draft = true
 +++
 Since 7:30AM CDT April 9, our data center provider has been experiencing network interruptions that has been causing connection issue to out managed services located in Los Angeles data center. We will update this post, when we have more information.
 

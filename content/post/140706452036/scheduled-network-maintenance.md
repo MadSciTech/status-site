@@ -1,7 +1,6 @@
 +++
 title = 'Scheduled Network Maintenance'
 date = 2016-03-08
-draft = true
 +++
 There will be some network maintenance by our data center provider to the edge routers. This maintenance is being done to resolve some bugs and to increase performance of the routers.
 

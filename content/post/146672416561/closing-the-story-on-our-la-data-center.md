@@ -1,7 +1,7 @@
 +++
 title = 'Closing the Story on our LA Data Center'
 date = 2016-06-29T00:15:43-05:00
-draft = true
+
 +++
 On _June 25, 2016_ we have closed our Los Angeles Data Center after six years of service. Now the majority of our web services will be provided from our New York Data Center.
 

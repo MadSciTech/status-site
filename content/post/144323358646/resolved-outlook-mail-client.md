@@ -1,7 +1,6 @@
 +++
 title = 'Resolved Outlook Mail Client'
 date = 2016-05-13T23:43:58-05:00
-draft = true
 +++
 We have resolved an long standing issue with using Microsoft Outlook Mail Clients with our mail server. As of _May 13, 2016 at 8PM_, you may use Microsoft Outlook as your email client without issues.
 

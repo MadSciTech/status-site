@@ -1,7 +1,7 @@
 +++
 title = 'Web Server Fell-over - Oops'
 date = 2016-06-12T23:54:22-05:00
-draft = true
+
 +++
 On **June 12, 2016 at 6:27A** our web server ran out of memory and temporarily crashed, causing websites on our Managed Web Presence Service to go offline. We quickly diagnosed and recovered the server and brought the **server back up by 6:35A**.
 

@@ -1,7 +1,6 @@
 +++
 title = 'Managed Services Migration'
 date = 2016-01-04
-draft = true
 +++
 In the coming weeks, we will be migrating our services to a new service provider to increase service performance and reliability.
 

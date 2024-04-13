@@ -1,7 +1,6 @@
 +++
 title = 'Security Maintenance Window - Completed'
 date = 2016-05-03
-draft = true
 +++
 **May 4, 2016 between 12:30A-1:30AM**
 

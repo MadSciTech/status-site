@@ -1,7 +1,6 @@
 +++
 title = 'AntiSpam: Implementation of DMARC'
 date = 2016-04-18
-draft = true
 +++
 **Update (June 6, 2016): The status for this implementation project has been moved to it own page. Please track this at the following page: [http://status.services.madscitech.net/projects-status/spf-dkim-dmarc-project/](http://status.services.madscitech.net/projects-status/spf-dkim-dmarc-project/)**
 

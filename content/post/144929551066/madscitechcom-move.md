@@ -1,7 +1,6 @@
 +++
 title = 'MadSciTech.com Move'
 date = 2016-06-24T00:09:36-05:00
-draft = true
 +++
 **Status: Completed ✓ ✓ ✓**
 

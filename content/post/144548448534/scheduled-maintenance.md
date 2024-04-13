@@ -1,7 +1,6 @@
 +++
 title = 'Scheduled Maintenance'
 date = 2016-05-18T23:45:33-05:00
-draft = true
 +++
 **Completed**
 

@@ -11,29 +11,11 @@
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-04-05T14:16:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/status/dc-maintenance-2024-04-16/</loc>
+    <loc>http://localhost:1313/post/2024/dc-maintenance-2024-04-16/</loc>
     <lastmod>2024-04-05T13:45:21-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/status/</loc>
-    <lastmod>2024-04-05T13:45:21-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/first/</loc>
-    <lastmod>2024-04-03T01:13:09-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects-status/spf-dkim-dmarc-project/</loc>
-    <lastmod>2024-04-03T00:25:23-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects-status/</loc>
-    <lastmod>2024-04-03T00:25:23-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/status/previous-events/</loc>
-    <lastmod>2024-04-02T22:26:17-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-04-02T00:29:03-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/746680619607736320/update-to-status-site/</loc>
-    <lastmod>2024-04-02T00:29:03-05:00</lastmod>
+    <lastmod>2024-04-05T13:45:21-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/746679870900355072/april-2-2024-brief-outage/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
@@ -176,33 +158,6 @@
     <loc>http://localhost:1313/post/156885536966/minor-software-upgrade/</loc>
     <lastmod>2017-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/156638474626/regularly-scheduled-server-maintenance/</loc>
-    <lastmod>2017-01-31T00:54:16-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/153406372526/regularly-scheduled-server-maintenance/</loc>
-    <lastmod>2016-11-19T00:52:38-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/152040745696/regularly-scheduled-server-maintenance/</loc>
-    <lastmod>2016-10-19T00:50:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/151990425087/dkim-record-update/</loc>
-    <lastmod>2016-10-18T00:48:50-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/149379357141/web-server-upgrade/</loc>
-    <lastmod>2016-08-23T00:39:56-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/148846898301/webmail-maintenance/</loc>
-    <lastmod>2016-08-12T00:37:43-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/147595832305/https-madscitechcom/</loc>
-    <lastmod>2016-07-18T00:34:46-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/147543439136/upgrade-to-transactional-email/</loc>
-    <lastmod>2016-07-17T00:22:22-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/147446466768/scheduled-maintenance-july-17/</loc>
-    <lastmod>2016-07-15T00:19:07-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/146672416561/closing-the-story-on-our-la-data-center/</loc>
     <lastmod>2016-06-29T00:15:43-05:00</lastmod>
   </url><url>
@@ -232,6 +187,9 @@
   </url><url>
     <loc>http://localhost:1313/post/143813494351/security-maintenance-window/</loc>
     <lastmod>2016-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/original-dmarc-outline/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/143119703220/scheduled-maintenance-system-updates-nyc/</loc>
     <lastmod>2016-04-20T13:00:00+00:00</lastmod>
@@ -268,9 +226,6 @@
   </url><url>
     <loc>http://localhost:1313/post/140129367541/database-server-maintenance/</loc>
     <lastmod>2016-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/138781309261/scheduled-network-maintenance/</loc>
-    <lastmod>2016-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/137614745146/managed-services-migration/</loc>
     <lastmod>2016-01-04T00:00:00+00:00</lastmod>

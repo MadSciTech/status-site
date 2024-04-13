@@ -1,7 +1,6 @@
 +++
 title = 'Database Server Maintenance'
 date = 2016-02-27
-draft = true
 +++
 We will be doing some emergency database server maintenance on our database server, to resolve some memory issues and increase database performance.
 

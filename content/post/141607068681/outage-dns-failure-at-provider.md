@@ -1,7 +1,6 @@
 +++
 title = 'Outage: DNS Failure at Provider'
 date = 2016-03-24
-draft = true
 +++
 _March 24, 2016 @ 10:24AM_
 

@@ -1,7 +1,6 @@
 +++
 title = 'Data Center Maintenance Window for 2024-04-16'
 date = 2024-04-05T13:45:21-05:00
-draft = true
 +++
 **Maintenance Window:**
 * **Start**: 2024-04-16 11:00 UTC / April 16 - 6:00 AM CDT

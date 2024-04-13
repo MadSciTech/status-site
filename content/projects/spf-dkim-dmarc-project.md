@@ -1,7 +1,8 @@
 +++
 title = 'Implementation of SPF, DKIM, and DMARC for Managed Mail Services'
-date = 2024-04-03T00:25:23-05:00
-draft = true
+date = 2016-05-01
+aliases = ['/projects-status/spf-dkim-dmarc-project']
+slug = '/original-dmarc-outline'
 +++
 **Project Status**: In Progress / Partial Delay
 

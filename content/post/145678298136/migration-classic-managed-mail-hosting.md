@@ -1,7 +1,7 @@
 +++
 title = 'Migration: Classic Managed Mail Hosting'
 date = 2016-06-09T23:49:00-05:00
-draft = true
+
 +++
 Starting **June 13, 2016** we will begin the process of migrating our older Managed Mail Hosting Services (Classic) to a new mail server.
 

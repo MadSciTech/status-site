@@ -9,25 +9,23 @@
     <language>en-us</language>
     <managingEditor>info@MadSciTech.com (Mad Scientist Technologies)</managingEditor>
     <webMaster>info@MadSciTech.com (Mad Scientist Technologies)</webMaster>
-    <lastBuildDate>Tue, 02 Apr 2024 00:29:03 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 13:45:21 -0500</lastBuildDate>
     <atom:link rel="self" href="http://localhost:1313/post/feed.xml" type="application/rss+xml" />
     <item>
-      <title>Update to Status Site</title>
-      <link>http://localhost:1313/post/746680619607736320/update-to-status-site/</link>
-      <pubDate>Tue, 02 Apr 2024 00:29:03 -0500</pubDate>
+      <title>Data Center Maintenance Window for 2024-04-16</title>
+      <link>http://localhost:1313/post/2024/dc-maintenance-2024-04-16/</link>
+      <pubDate>Fri, 05 Apr 2024 13:45:21 -0500</pubDate>
       <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
-      <guid>http://localhost:1313/post/746680619607736320/update-to-status-site/</guid>
-      <description>&lt;p&gt;We will be moving our Status Site to a new provider in the coming days. The URL will not be changing, but the design and the site content will be changing.&lt;/p&gt;
-&lt;h2 id=&#34;the-following-urls-will-still-work&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/post/746680619607736320/update-to-status-site/#the-following-urls-will-still-work&#34;&gt;The Following URLs will still work&lt;/a&gt;
-&lt;/h2&gt;
+      <guid>http://localhost:1313/post/2024/dc-maintenance-2024-04-16/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Maintenance Window:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://status.services.madscitech.net&#34;&gt;https://status.services.madscitech.net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://status.madscitech.com&#34;&gt;https://status.madscitech.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Start&lt;/strong&gt;: 2024-04-16 11:00 UTC / April 16 - 6:00 AM CDT&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;End&lt;/strong&gt;: 2024-04-16 13:00 UTC / April 16 - 8:00 AM CDT&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;We will be adding additional URLs for your convenience.&lt;/p&gt;
-&lt;p&gt;As always, if you have questions or concerns, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;— Mad Scientist Technologies Team&lt;/p&gt;
+&lt;p&gt;During the above Maintenance Window our Data Center Provider will be performing core network improvements in our primary data center locations.&lt;/p&gt;
+&lt;p&gt;There is no expected downtime or outage during this window. However, there may be an increase latency or a minor disruption in network traffic for 2-3 minutes.&lt;/p&gt;
+&lt;p&gt;If you have any questions or concerns, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;— Mad Scientist Technologies Infrastructure Team&lt;/p&gt;
 </description>
     </item>
     <item>
