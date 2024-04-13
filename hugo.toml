@@ -1,7 +1,8 @@
 baseURL = 'https://status.services.madscitech.net/'
 languageCode = 'en-us'
 title = 'Managed Services Status - Mad Scientist Technologies'
-theme = 'ananke'
+#theme = 'ananke'
+theme = 'hugo-flex'
 
 [[params.ananke_socials]]
 name = "twitter"
@@ -13,11 +14,46 @@ priority = 0.5
 filename = "sitemap.xml"
 
 [params]
-author = "Mad Scientist Technologies"
+#author = "Mad Scientist Technologies"
 description = "MadSciTech Managed Service Status Page"
-background_color_class = "bg-dark-blue"
+#background_color_class = "bg-dark-blue" # ananke theme
 recent_posts_number = 20
 cononifyURL = true
+
+# hugo-flex theme
+color = "#09F"
+footer =  "© 2024 <a href=\"//madscitech.com\">Mad Scientist Technologies</a>. Some Rights Reserved."
+
+copyright = "© 2024 Mad Scientist Technologies. Some Rights Reserved."
+[params.author]
+name = "Mad Scientist Technologies"
+email ="info@MadSciTech.com"
+
+[[menus.main]]
+name = "Previous Incidents"
+pageRef = "/status"
+weight = 1
+[[menus.main]]
+name = "Projects"
+pageRef = "/projects"
+weight = 2
+[[menus.main]]
+name = "Feed"
+url = "/feed.xml"
+weight = 4
+params.format = "RSS"
+[[menus.main]]
+name = "Twitter"
+url = "https://twitter.com/MadSciTechCloud"
+weight = 5
+
+[services]
+[services.rss]
+limit = 20
+
+[outputs]
+home = ['html','rss']
+
 
 # Allow HTML
 [markup.goldmark.renderer]

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Managed Services Status - Mad Scientist Technologies</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Managed Services Status - Mad Scientist Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>info@MadSciTech.com (Mad Scientist Technologies)</managingEditor>
+    <webMaster>info@MadSciTech.com (Mad Scientist Technologies)</webMaster>
+    <atom:link rel="self" href="http://localhost:1313/categories/feed.xml" type="application/rss+xml" />
+    <item>
+      <title>Update to Status Site</title>
+      <link>http://localhost:1313/post/746680619607736320/update-to-status-site/</link>
+      <pubDate>Tue, 02 Apr 2024 00:29:03 -0500</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/746680619607736320/update-to-status-site/</guid>
+      <description>&lt;p&gt;We will be moving our Status Site to a new provider in the coming days. The URL will not be changing, but the design and the site content will be changing.&lt;/p&gt;
+&lt;h2 id=&#34;the-following-urls-will-still-work&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/post/746680619607736320/update-to-status-site/#the-following-urls-will-still-work&#34;&gt;The Following URLs will still work&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://status.services.madscitech.net&#34;&gt;https://status.services.madscitech.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://status.madscitech.com&#34;&gt;https://status.madscitech.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will be adding additional URLs for your convenience.&lt;/p&gt;
+&lt;p&gt;As always, if you have questions or concerns, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;— Mad Scientist Technologies Team&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>April 2, 2024 Brief Outage</title>
+      <link>http://localhost:1313/post/746679870900355072/april-2-2024-brief-outage/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/746679870900355072/april-2-2024-brief-outage/</guid>
+      <description>&lt;p&gt;Starting at 10:39AM CDT on April 2, 2024, one of our monitoring systems detected an full system outage effecting Web and Mail Services for all of our own and client managed services.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Web Hosting&lt;/li&gt;
+&lt;li&gt;Managed Mail Services&lt;/li&gt;
+&lt;li&gt;Mad Scientist Technologies Public Website &amp;amp; Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After investigating the outage we have determined that the outage was localized to our local (Quincy) monitoring system. The outage was caused by an routing change by our local transit provider.&lt;/p&gt;
+&lt;p&gt;This outage only effected users on Adams Network/Adams Fiber between 10:39-10:52AM on April 2.&lt;/p&gt;
+&lt;p&gt;We apologize for this outage.&lt;/p&gt;
+&lt;p&gt;If you have any questions, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;— Mad Scientist Technologies Team&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Mail Service Outage</title>
+      <link>http://localhost:1313/post/722957857154301952/mail-service-outage/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/722957857154301952/mail-service-outage/</guid>
+      <description>&lt;p&gt;At 6:50PM CDT on July 15, 2023 our monitoring system detected our mail server went offline. We are currently investigating the issue and will update this post with details.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Updates&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6:50PM - Outage Start/Investigation Starts&lt;/li&gt;
+&lt;li&gt;6:55PM - Found Network Issue with Mail Server&lt;/li&gt;
+&lt;li&gt;7:05PM - Data Center Provider informed of unscheduled maintenance on host server&lt;/li&gt;
+&lt;li&gt;7:47PM - Data Center Provider informed us that the physical server that is running our mail service has failed.&lt;br&gt;We are looking into alternatives for the mean time, we will update this post with additional information as we have access to it.&lt;/li&gt;
+&lt;li&gt;8:40PM - Monitoring system detected mail server back online, investigating.&lt;/li&gt;
+&lt;li&gt;8:45PM - Data Center provider informed node was recovered, we are continue to monitor the situation.&lt;/li&gt;
+&lt;li&gt;12:00AM - Minor System Maintenance, few minutes of downtime expected.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The outage has been fully resolved, if you are experiencing any problems, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Service Outage - Jan 28 2023</title>
+      <link>http://localhost:1313/post/707757767575945216/service-outage-jan-28-2023/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/707757767575945216/service-outage-jan-28-2023/</guid>
+      <description>&lt;p&gt;On January 28, 2023 at 11PM CST our Managed Web and Managed Mail Services went offline. The issue was caused by our data center provider.&lt;/p&gt;
+&lt;p&gt;We are currently investigating the root cause of this issue and will update this post with additional details, when and if those details become available.&lt;/p&gt;
+&lt;p&gt;We are still monitoring the situation, additional updates will be posted here and our twitter feed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timeline of Events&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;11:00PM CT - Monitoring Systems indicated outage
+&lt;ul&gt;
+&lt;li&gt;Investigation of issue&lt;/li&gt;
+&lt;li&gt;Found issue with Data Center Provider&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;11:10PM CT - Services Started coming back online&lt;/li&gt;
+&lt;li&gt;11:15PM CT - Services Restored&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We are still waiting to hear from DC about issue.&lt;/p&gt;
+&lt;p&gt;This issue has been resolved as of 12:15AM CT Jan 29. This issue was caused by internal systems of our DC Provider.&lt;/p&gt;
+&lt;p&gt;If you have questions or concerns, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;— Mad Scientist Technologies Team&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>DC Maintenance Window</title>
+      <link>http://localhost:1313/post/705544606117429248/dc-maintenance-window/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/705544606117429248/dc-maintenance-window/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start&lt;/strong&gt;: 2023-01-11 @ 18:00 CST&lt;br&gt;
+&lt;strong&gt;End&lt;/strong&gt;: 2023-01-11 @ 22:00 CST&lt;/p&gt;
+&lt;p&gt;Our data center provider will be conducting core network upgrade and maintenance during the above window. Our Managed Web and Mail Service will experience some packet loss and downtime during this period. We expect only a few minutes of downtime.&lt;/p&gt;
+&lt;p&gt;If you have any questions, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;— Mad Scientist Technologies Team&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Maintenance Window (Rescheduled)</title>
+      <link>http://localhost:1313/post/692870562772566016/maintenance-window/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/692870562772566016/maintenance-window/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start&lt;/strong&gt;: 2022-08-19 @ 12:01AM CDT&lt;br&gt;
+&lt;strong&gt;End&lt;/strong&gt;: 2022-08-19 @ 1:00AM CDT&lt;/p&gt;
+&lt;p&gt;We will be performing server maintenance on the following services:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Web Platform&lt;/li&gt;
+&lt;li&gt;Managed Mail Service&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We expect no more than ten (10) minutes of downtime with this maintenance window.&lt;/p&gt;
+&lt;p&gt;If you have any questions, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Webmail Upgrade</title>
+      <link>http://localhost:1313/post/692870796367020032/webmail-upgrade/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/692870796367020032/webmail-upgrade/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start&lt;/strong&gt;: 2022-08-17 @ 5:00PM CDT&lt;br&gt;
+&lt;strong&gt;End&lt;/strong&gt;: 2022-08-17 @ 6:00PM CDT&lt;/p&gt;
+&lt;p&gt;We will be upgrading out webmail interface. This upgrade will not effect mail delivery to your mailboxes.&lt;/p&gt;
+&lt;p&gt;We expect about 30 minutes of downtime to the webmail interface during this upgrade process.&lt;/p&gt;
+&lt;p&gt;If you have questions, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Server Maintenance</title>
+      <link>http://localhost:1313/post/671895788826263552/server-maintenance/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/671895788826263552/server-maintenance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start&lt;/strong&gt;: 2022-01-01 @ 11:00PM CDT&lt;br&gt;
+&lt;strong&gt;End&lt;/strong&gt;: 2022-01-02 @ 03:00AM CDT&lt;/p&gt;
+&lt;p&gt;We will be performing some server maintenance during the above maintenance window.&lt;/p&gt;
+&lt;p&gt;We expect less than 30 minutes of downtime for the following services:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affected Service&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Web Services&lt;/li&gt;
+&lt;li&gt;Managed Mail Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have questions or concerns, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Web and Mail Service Outage</title>
+      <link>http://localhost:1313/post/659437503743426560/web-and-mail-service-outage/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/659437503743426560/web-and-mail-service-outage/</guid>
+      <description>&lt;p&gt;On August 13 starting about 3:38PM CT, our Managed Web and Managed Mail Services went offline. The issue is with our data center provider, which started an investigation at 3:50PM CT. Our service came back online around 3:52PM CT.&lt;/p&gt;
+&lt;p&gt;We will continue to monitor the situation and update this post with additional detail when available.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update: August 13, 2021 at 10:00PM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Services are currently stable, however our Data Center Provider will be doing maintenance on network equipment in the emergency maintenance window below:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;August 14, 2021 12:00AM - August 14, 2021 4:00AM.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During this maintenance windows there may brief moment of packet loss and/or increase latency.&lt;/p&gt;
+&lt;p&gt;If you have any questions, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Outage: SDN Controller Unavailable</title>
+      <link>http://localhost:1313/post/656929601714569216/outage-sdn-controller-unavailable/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/656929601714569216/outage-sdn-controller-unavailable/</guid>
+      <description>&lt;p&gt;Start: 2021-07-16 at 3:15PM CDT
+End: 2021-07-16 at 11:50PM CDT&lt;/p&gt;
+&lt;p&gt;During a normal maintenance window our Software Defined Network (SDN) Controller went offline for upgrades, however it failed to start after the upgrade.&lt;/p&gt;
+&lt;p&gt;We are in the process of recovery the controller.&lt;/p&gt;
+&lt;p&gt;What does that mean we manage your network devices, we are unable to change settings on your devices. However, the devices &lt;strong&gt;do not&lt;/strong&gt; need the SDN Controller available to continue function. Your equipment will continue to work, however any statistics will be lost.&lt;/p&gt;
+&lt;p&gt;We will update this post with additional information, when it becomes available.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2021-07-16 at 3:50PM CDT&lt;/strong&gt;&lt;br&gt;We have found the cause of the problem and are attempting a fix now.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021-07-16 at 11:50PM CDT&lt;/strong&gt;&lt;br&gt;We have resolved the issue with our SDN Controller and has returned to nominal state.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;If you have questions or concerns, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Outage on June 8, 2021</title>
+      <link>http://localhost:1313/post/653487765738110976/outage-on-june-8-2021/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/653487765738110976/outage-on-june-8-2021/</guid>
+      <description>&lt;p&gt;On June 8, 2021 starting at approximately 5:39PM CDT, our alerting system informed us that are primary web and database server became unresponsive from the greater Internet.&lt;/p&gt;
+&lt;p&gt;Upon investigation, we found that our Data Center (DC) provider is having a connectivity issue across there entire global footprint. The DC provider has started investigating this large scale issue.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As of 11:30PM on June 8, 2021 we do not have any further information to share.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE: June 8, 2021 @ 11:55PM&lt;/strong&gt;: Web Sites &amp;amp; Services Started to be restored and coming back online. We are still waiting for additional information from the DC about these restorations. We are assuming this may be temporary and some or all services may become intermittent at times. Additional Updates when available.&lt;/p&gt;
+&lt;p&gt;Once we know more, will update this post and our &lt;a href=&#34;https://twitter.com/madscitechcloud&#34;&gt;twitter account&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timeline of Events&lt;/strong&gt; &lt;small&gt;(Time in Central Time)&lt;/small&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;June 8, 2021
+&lt;ul&gt;
+&lt;li&gt;5:39PM: Monitoring system indicate multiple failures in our web services.&lt;/li&gt;
+&lt;li&gt;6:20PM: Investigation into cause, found possible DC Provider failure.&lt;/li&gt;
+&lt;li&gt;9:00PM: DC Provider investigating outage&lt;/li&gt;
+&lt;li&gt;11:55PM: Web Sites and Service are coming back online.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Effected Service&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Web Service&lt;/li&gt;
+&lt;li&gt;Managed Mail Service&lt;/li&gt;
+&lt;li&gt;Incoming mail is spooling on backup servers, will be delivered when back online&lt;/li&gt;
+&lt;li&gt;Server is accessible, but authentication and delivery failures.&lt;/li&gt;
+&lt;li&gt;Online Invoice &amp;amp; Billing System&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;When additional information is provided, we will publish updates here and on twitter.&lt;/p&gt;
+&lt;p&gt;If you have questions, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;— Mad Scientist Technologies Team&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Web Server Mail Delivery</title>
+      <link>http://localhost:1313/post/651715913439150080/web-server-mail-delivery/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/651715913439150080/web-server-mail-delivery/</guid>
+      <description>&lt;p&gt;On May 20, 2021 we were informed that our Managed Web Service Server has been blacklisted from sending emails directly. This was a change by Spamhaus by placing the server address on a Policy Based Blacklist due to bad neighbors in our data center provider.&lt;/p&gt;
+&lt;p&gt;We are looking into options to remove our IP address from Spamhaus - &lt;em&gt;this is unlikely to happen&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;However, we have decided to continue to implement our plans to switch to using our third-party mail delivery service for all web applications.&lt;/p&gt;
+&lt;p&gt;We will post updates on this situation as they come available.&lt;/p&gt;
+&lt;p&gt;If you have any questions, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;— Mad Scientist Technologies’ Team&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Server Maintenance</title>
+      <link>http://localhost:1313/post/638839986117115904/server-maintenance/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/638839986117115904/server-maintenance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start&lt;/strong&gt;: 2021-01-02 @ 11:00PM CDT&lt;br&gt;
+&lt;strong&gt;End&lt;/strong&gt;: 2021-01-03 @ 03:00AM CDT&lt;/p&gt;
+&lt;p&gt;We will be performing some server maintenance during the above maintenance window.&lt;/p&gt;
+&lt;p&gt;We expect less than 10 minutes of downtime for the following services:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affected Service&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Web Services&lt;/li&gt;
+&lt;li&gt;Managed Mail Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have questions or concerns, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Internal Data Center Updates</title>
+      <link>http://localhost:1313/post/628860277804433408/internal-data-center-updates/</link>
+      <pubDate>Thu, 10 Sep 2020 00:01:28 -0500</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/628860277804433408/internal-data-center-updates/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start&lt;/strong&gt;: 2020-09-18 @ 03:30 UTC / September 17, 2020 @ 10:30 PM CDT&lt;br&gt;
+&lt;strong&gt;End&lt;/strong&gt;: 2020-09-18 @ 04:30 UTC / September 17, 2020 @ 11:30 PM CDT&lt;/p&gt;
+&lt;p&gt;Our Data Center Provider will be updating internal tooling that will limit our ability to manage clients servers during the above maintenance window.&lt;/p&gt;
+&lt;p&gt;We expect no downtime from this maintenance window for all client and managed services.&lt;/p&gt;
+&lt;p&gt;If you have questions or concerns, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Data Center Maintenance (Hypervisor)</title>
+      <link>http://localhost:1313/post/628859856876716032/data-center-maintenance-hypervisor/</link>
+      <pubDate>Thu, 10 Sep 2020 00:01:20 -0500</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/628859856876716032/data-center-maintenance-hypervisor/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start&lt;/strong&gt;: 2020-09-14 @ 00:00 UTC / September 13, 2020 @ 7:00PM CDT&lt;br&gt;
+&lt;strong&gt;End&lt;/strong&gt;: 2020-10-02 @ 00:00 UTC / October 01, 2020 @ 7:00PM CDT&lt;/p&gt;
+&lt;p&gt;Our Data Center Provider will be rolling out updates across there entire server fleet to improve networking performance and stability on our servers. We do not have a more specific date or time for this maintenance window, we will update this notice when we know more.&lt;/p&gt;
+&lt;p&gt;This update should have limited to no downtime associated with the maintenance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affected Service&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Web Services&lt;/li&gt;
+&lt;li&gt;Managed Mail Services
+&lt;ul&gt;
+&lt;li&gt;Webmail&lt;/li&gt;
+&lt;li&gt;Send &amp;amp; Receiving&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have questions or concerns, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Managed Mail Service Outage - Post-Morten</title>
+      <link>http://localhost:1313/post/628858851896311808/managed-mail-service-outage-post-morten/</link>
+      <pubDate>Thu, 10 Sep 2020 00:01:15 -0500</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/628858851896311808/managed-mail-service-outage-post-morten/</guid>
+      <description>&lt;p&gt;First off, I would like to apologize for this unexpected outage to our valued clients.&lt;/p&gt;
+&lt;p&gt;Our recent managed mail service outage that was between &lt;strong&gt;12:17A - 12:35A on September 10, 2020&lt;/strong&gt;, was a result of a missed announcement of an upcoming maintenance window by our Data Center Provider to resolve an issue with the underlying server that our Managed Mail Service is hosted on. This maintenance window was missed due to multiple maintenance notices for the Month of September.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The maintenance window was scheduled for&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Start&lt;/strong&gt;: 2020-09-10 @ 04:00 UTC / Sept 9, 2020 @ 11:00PM CDT
+&lt;strong&gt;End&lt;/strong&gt;: 2020-09-10 @ 12:00 UTC / Sept 10, 2020 @ 7:00AM CDT&lt;/p&gt;
+&lt;p&gt;Live migration was attempted, however, failed and an offline migration had to be performed. An offline migration requires the Managed Mail Server to be powered off before the migration process. This offline migration caused the outage and extended the downtime.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timeline of Events&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;12:17A - Data Center Provider Attempt Live Migration of Mail Server to the new host, but fails&lt;/li&gt;
+&lt;li&gt;12:22A - System Monitoring: Notification that Mail Server is unavailable&lt;/li&gt;
+&lt;li&gt;12:24A - Started investigating&lt;/li&gt;
+&lt;li&gt;12:28A - Found that Data Center is performing offline migration of Server&lt;/li&gt;
+&lt;li&gt;12:30A - Migration Completed&lt;/li&gt;
+&lt;li&gt;12:35A - Server back online&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As mentioned above, there are other upcoming maintenance windows scheduled for September 2020, below is the upcoming maintenance windows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;September 13, 2020 (CDT) - Hypervisor/Network Upgrades&lt;/li&gt;
+&lt;li&gt;September 17, 2020 (CDT) - General Data Center Maintenance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Again, I would like to apologize again for this outage and I take full responsibility for this error.&lt;/p&gt;
+&lt;p&gt;If you have any questions or concerns, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Chris Holbrook
+Mad Scientist Technologies&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Data Center Maintenance</title>
+      <link>http://localhost:1313/post/626964237445660672/data-center-maintenance/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/626964237445660672/data-center-maintenance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start: August 25, 2020 9:00 PM CDT&lt;/strong&gt; (August 26, 2020 02:00 UTC)&lt;br&gt;
+&lt;strong&gt;End: August 26, 2020 11:00 PM CDT&lt;/strong&gt; (August 26, 2020 04:00 UTC)&lt;/p&gt;
+&lt;p&gt;Our Data Center Provider will be doing maintenance on the core network equipment, to improve network performance and reliability.&lt;/p&gt;
+&lt;p&gt;We do not expect any downtime, just may periods of increased packet loss during the above maintenance Windows&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affected Services&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Web Services&lt;/li&gt;
+&lt;li&gt;Managed Mail Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have questions or concerns about this maintenance window, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;— Mad Scientist Technologies’ Team&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Data Center Maintenance</title>
+      <link>http://localhost:1313/post/619790636121571328/data-center-maintenance/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/619790636121571328/data-center-maintenance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start: June 8, 2020 11:15 PM CDT&lt;/strong&gt; (June 9, 2020 04:15 UTC)&lt;br&gt;
+&lt;strong&gt;End: June 9, 2020 7:15 AM CDT&lt;/strong&gt; (June 9, 2020 12:15 UTC)&lt;/p&gt;
+&lt;p&gt;Our Data Center Provider will be doing maintenance on the underlaying server that we are using, to resolve a potential issue with the system.&lt;/p&gt;
+&lt;p&gt;The expected downtime is currently unknown, but may last the full maintenance window. We expect to only see a minor interruption to services - including packet loss - while our system is moved to a new system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affected Services&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Web Services&lt;/li&gt;
+&lt;li&gt;Managed Mail Services&lt;/li&gt;
+&lt;li&gt;All our Online Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will update this post with additional information as we get more information.&lt;/p&gt;
+&lt;p&gt;If you have questions or concerns about this maintenance window, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;— Mad Scientist Technologies’ Team&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Quick Server Maintenance</title>
+      <link>http://localhost:1313/post/619341782866608128/quick-server-maintenance/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/619341782866608128/quick-server-maintenance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start: May 28, 2020 at 2:20AM CDT&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;End: May 28, 2020 at 2:30AM CDT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We will be doing some quick server server maintenance, the following services will experience a brief interruption in services&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Web Services&lt;/li&gt;
+&lt;li&gt;Managed Mail Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We expect just a few minutes of downtime.&lt;/p&gt;
+&lt;p&gt;Mad Scientist Technologies Team&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Data Center Maintenance</title>
+      <link>http://localhost:1313/post/618615595768905728/data-center-maintenance/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <author>info@MadSciTech.com (Mad Scientist Technologies)</author>
+      <guid>http://localhost:1313/post/618615595768905728/data-center-maintenance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start: May 24, 2020 11:15 PM CDT&lt;/strong&gt; (May 25, 2020 04:15 UTC)
+&lt;strong&gt;End: May 25, 2020 7:15 AM CDT&lt;/strong&gt; (May 25, 2020 12:15 UTC)&lt;/p&gt;
+&lt;p&gt;Our Data Center Provider will be doing maintenance on the underlaying server that we are using, to resolve a potential issue with the system.&lt;/p&gt;
+&lt;p&gt;The expected downtime is currently unknown, but may last the full maintenance window. We expect to only see a minor interruption to services - including packet loss - while our system is moved to a new system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affected Services&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed Web Services&lt;/li&gt;
+&lt;li&gt;Managed Mail Services&lt;/li&gt;
+&lt;li&gt;Our Online Services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will update this post with additional information as we get more information.&lt;/p&gt;
+&lt;p&gt;If you have questions or concerns about this maintenance window, please feel free to &lt;a href=&#34;https://madscitech.com/about/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;— Mad Scientist Technologies’ Team&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
