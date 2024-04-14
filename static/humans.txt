@@ -1,0 +1,18 @@
+/* TEAM */
+  Chris Holbrook
+  Contact:    staff  ] at [  madscitech  ] dot [  com
+  Twitter:    @mad9scientist
+  From:       Quincy, Illinois, United States              
+
+
+/* SITE */
+  Site name:  Mad Scientist Technologies Managed Service Status Site
+  Site URL:   http://status.madscitech.net/
+  Web Design: Chris Holbrook 
+  Contact:    http://madscitech.com/about/contact/
+  Twitter:    @madscitech
+  Location:   Quincy, Illinois, United States
+  Built with: Hugo
+  Theme:      https://github.com/ldeso/hugo-flex/
+  Github:     https://github.com/MadSciTech/status-site/
+  Language:   English
