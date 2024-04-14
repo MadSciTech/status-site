@@ -24,10 +24,12 @@ cononifyURL = true
 color = "#09F"
 footer =  "© 2024 <a href=\"//madscitech.com\">Mad Scientist Technologies</a>. Some Rights Reserved."
 
+css = ["css/custom.css"]
+
 copyright = "© 2024 Mad Scientist Technologies. Some Rights Reserved."
 [params.author]
 name = "Mad Scientist Technologies"
-email ="info@MadSciTech.com"
+email ="service-status@MadSciTech.com"
 
 [[menus.main]]
 name = "Previous Incidents"

@@ -1,7 +1,7 @@
 +++
 title = 'Scheduled Maintenance - July 17'
 date = 2016-07-15T00:19:07-05:00
-draft = true
+
 +++
 **Completed:** After a late start, the maintenance has been completed successfully.
 

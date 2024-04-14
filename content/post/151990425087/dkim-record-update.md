@@ -1,7 +1,7 @@
 +++
 title = 'DKIM Record Update'
 date = 2016-10-18T00:48:50-05:00
-draft = true
+
 +++
 Some of our managed mail clients will have there DKIM records and signing key updated to stronger encryption algorithms. This is being done to improve mail delivery. We expect less than a minute of downtime for this change.
 

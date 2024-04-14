@@ -1,7 +1,7 @@
 +++
 title = 'Upgrade to Transactional Email'
 date = 2016-07-17T00:22:22-05:00
-draft = true
+
 +++
 Update: As of July 22, 2016 all Managed Web Presence Properties’ have been migrated to our new transactional email service. We only have a few more changes before our DMARC, DKIM, and SPF Rollout will change to the spam and unauthorized mail monitoring process.
 

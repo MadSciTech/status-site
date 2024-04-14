@@ -1,7 +1,7 @@
 +++
 title = 'Update to Status Site'
 date = 2024-04-02T00:29:03-05:00
-draft = true
+
 +++
 We will be moving our Status Site to a new provider in the coming days. The URL will not be changing, but the design and the site content will be changing.
 

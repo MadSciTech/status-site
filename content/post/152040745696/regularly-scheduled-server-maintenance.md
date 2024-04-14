@@ -1,7 +1,7 @@
 +++
 title = 'Regularly Scheduled Server Maintenance'
 date = 2016-10-19T00:50:27-05:00
-draft = true
+
 +++
 On **October 23, 2016** starting at 11:00PM, we will be performing some regular server maintenance on the following services:
 

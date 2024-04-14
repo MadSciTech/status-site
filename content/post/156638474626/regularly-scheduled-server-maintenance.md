@@ -1,7 +1,7 @@
 +++
 title = 'Regularly Scheduled Server Maintenance'
 date = 2017-01-31T00:54:16-05:00
-draft = true
+
 +++
 **Completed**
 

@@ -1,7 +1,7 @@
 +++
 title = 'Scheduled Network Maintenance'
 date = 2016-02-06
-draft = true
+
 +++
 There will be some network maintenance by our data center provider to the private networking between servers. They do not expect any impact to public-facing connectivity. Private Networking should not be interrupted except short periods of increased latency and minor packet loss.
 

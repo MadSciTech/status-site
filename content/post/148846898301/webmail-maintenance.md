@@ -1,7 +1,7 @@
 +++
 title = 'Webmail Maintenance'
 date = 2016-08-12T00:37:43-05:00
-draft = true
+
 +++
 **Update 8/12 3:40PM: Webmail Maintenance Completed**
 

@@ -1,7 +1,7 @@
 +++
 title = 'Web Server Upgrade ✔️'
 date = 2016-08-23T00:39:56-05:00
-draft = true
+
 +++
 **Web Server Successfully Upgraded on Saturday, August 27, 2016 at 1:30AM. ✔️**
 
