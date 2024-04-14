@@ -5,7 +5,7 @@ a.Banner-link{
 	text-align: center;
 }
 a.Banner-link img{
-	margin-bottom: 1em;
+	margin: 0 auto 1em;
 }
 
 .u-background{
