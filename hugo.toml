@@ -45,6 +45,10 @@ weight = 2
 #weight = 4
 #params.format = "RSS"
 [[menus.main]]
+name = "Uptime"
+url = "https://stats.uptimerobot.com/KQMLSqQK"
+weight = 4
+[[menus.main]]
 name = "Twitter"
 url = "https://twitter.com/MadSciTechCloud"
 weight = 5
