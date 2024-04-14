@@ -1,6 +1,5 @@
 +++
 title = 'Implementation of SPF, DKIM, and DMARC for Managed Mail Services'
-date = 2016-05-01
 aliases = ['/projects-status/spf-dkim-dmarc-project']
 slug = '/original-dmarc-outline'
 +++

@@ -1,6 +1,5 @@
 +++
 title = 'DMARC Implementation Project'
-date = 2024-04-05T14:16:04-05:00
 aliases = ['/projects/email-dmarc-status']
 +++
 **Project Status**: In Progress (Partially Completed)
