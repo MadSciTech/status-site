@@ -19,3 +19,7 @@ The following code has been modified from the original.
   * ADDED: assets/css/custom.css
   * CHANGE: layouts/_default/baseof.html
   * CHANGE: layouts/partials/banner.html
+
+If you have questions or concern, please open an issue on [GitHub](https://github.com/MadSciTech/status-site/).
+
+NOTICE: GitHub is a Public Mirror for this project.
