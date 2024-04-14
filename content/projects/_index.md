@@ -9,9 +9,13 @@ Below is a list of Upcoming or Current Projects:
 
 ## Active Projects
 
-* New Status Site
 * [DMARC Implementation](/projects/dmarc/)
 * IPv6 Implementation
-* Server Upgrade
+* Web Server Upgrades
+* Mail Server BIG Upgrades
+
+## Recently Completed
+
+* New Status Site - Completed April 14, 2024
 
 ## All Projects
