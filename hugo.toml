@@ -2,7 +2,7 @@ baseURL = 'https://status.services.madscitech.net/'
 languageCode = 'en-us'
 title = 'Managed Services Status - Mad Scientist Technologies'
 #theme = 'ananke'
-theme = 'hugo-flex'
+theme = 'hugo-flex-mst'
 
 [[params.ananke_socials]]
 name = "twitter"

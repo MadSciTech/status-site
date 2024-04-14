@@ -1,0 +1,33 @@
+a.Banner-link{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	text-align: center;
+}
+a.Banner-link img{
+	margin-bottom: 1em;
+}
+
+.u-background{
+	background: #09f;
+	background: linear-gradient(#fff 130px,#09f 130px);
+	background: linear-gradient(#fff 145px,#09f 145px, #09f 185px,#fff 189px, #09f 188px)
+
+}
+
+main a{
+    color: #09F;
+}
+main a:hover, main a:active, main a:visited{
+    color: #369;
+}
+
+@media (width <= 551px) {
+    h1.Banner-heading > a.Banner-link.u-clickable > div{
+        display: none;
+    }
+    a.Banner-link.u-clickable {
+        font-size: 1rem;
+        padding: 0.5rem;
+    }
+}
