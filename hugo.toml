@@ -32,7 +32,7 @@ name = "Mad Scientist Technologies"
 email ="service-status@MadSciTech.com"
 
 [[menus.main]]
-name = "Previous Incidents"
+name = "Incidents"
 pageRef = "/post"
 weight = 1
 [[menus.main]]
