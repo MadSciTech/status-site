@@ -22,12 +22,12 @@ main a:hover, main a:active, main a:visited{
     color: #369;
 }
 
-@media (width <= 551px) {
+@media (width <= 555px) {
     h1.Banner-heading > a.Banner-link.u-clickable > div{
         display: none;
     }
     a.Banner-link.u-clickable {
         font-size: 1rem;
-        padding: 0.5rem;
+        padding: 0.3rem;
     }
 }
