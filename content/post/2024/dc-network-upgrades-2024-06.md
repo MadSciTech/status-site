@@ -10,8 +10,8 @@ draft = false
 * **End**: 2024-06-18 02:00 UTC / June 17 - 9:00 PM CDT
 
 **Phase Two**
-* **Start**: 2024-06-18 22:00 UTC / June 29 - 5:00 PM CDT
-* **End**: 2024-06-19 02:00 UTC / June 29 - 9:00 PM CDT
+* **Start**: 2024-06-18 22:00 UTC / June 18 - 5:00 PM CDT
+* **End**: 2024-06-19 02:00 UTC / June 18 - 9:00 PM CDT
 
 During the above Maintenance Window, our data center provider will be performing upgrades with core networking equipment. We expect brief interruptions to our services during the above window. 
 
