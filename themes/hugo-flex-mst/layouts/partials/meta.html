@@ -1,10 +1,6 @@
 <meta charset="utf-8">
 
-{{ if and .IsHome .Paginator.HasPrev }}
-  <meta name="robots" content="noindex, nofollow, noarchive">
-{{ else if .Params.noindex }}
-  <meta name="robots" content="noindex, noarchive">
-{{ end }}
+  <meta name="robots" content="index, follow">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
