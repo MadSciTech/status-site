@@ -3,11 +3,10 @@ title = 'DMARC Implementation Project'
 date = '2024-01-01'
 aliases = ['/projects/email-dmarc-status']
 +++
-**Project Status**: In Progress (Partially Completed)
+**Project Status**: Completed (May 2024)
 
 * Client Domains: 
-  * Current: Monitoring DMARC Reports
-  * Changing: April 15-20 Monitoring + Quartintine 
+  * Current: Monitoring + Quarantine 
 
 ## Goal/Additional Information
 
@@ -19,7 +18,7 @@ Questions about this project, [contact us](https://madscitech.com/about/contact/
 
 ## Project Time
 
-Last Updated: April 2024
+Last Updated: December 2024
 
 ### Managed Domains - Clients
 
@@ -27,9 +26,9 @@ Last Updated: April 2024
     * Completed/Fully Implemented
 * DMARC Status
     * Records Implemented
-        * Status: Monitoring
+        * Status: Monitoring + Quarantine
         * Message Percentage: 100%
-        * Disposition on Failing Messages: None
+        * Disposition on Failing Messages: Quarantine
 
 We will start moving managed domains to the next step, Quarantine, during the month of April 2024. After this implementation, we will continue to monitor for another month or two before moving to the final level - Reject.
 
@@ -39,8 +38,7 @@ We will start moving managed domains to the next step, Quarantine, during the mo
     * Completed/Fully Implemented
 * DMARC Status
     * Records Implemented
-        * Status: Monitoring
+        * Status: Monitoring + Quarantine
         * Message Percentage: 100%
-        * Disposition on Failing Messages: Quartintine
+        * Disposition on Failing Messages: Quarantine
 
-We will be moving to Reject state during the month of April 2024.

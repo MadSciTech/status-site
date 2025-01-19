@@ -20,7 +20,7 @@ We are planning to implement DMARC (Domain-based Message Authentication, Reporti
 
 **Why are you implementing DMARC and What is it?**
 
-DMARC is an Internet Standard that is used to confirm that a email messages are truely from who it say it’s from. For example, when you a send email message to another mail server, the remote mail server can use DMARC records to confirm that your message is really from your mail server and not an imposter. If the message is not from the authorize mail server it will quarantine and send us reports on why it failed.
+DMARC is an Internet Standard that is used to confirm that a email messages are truly from who it say it’s from. For example, when you a send email message to another mail server, the remote mail server can use DMARC records to confirm that your message is really from your mail server and not an imposter. If the message is not from the authorize mail server it will quarantine and send us reports on why it failed.
 
 **Affected Clients**
 
