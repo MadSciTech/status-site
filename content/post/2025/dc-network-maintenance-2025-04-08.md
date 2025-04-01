@@ -1,8 +1,10 @@
 +++
-title = 'Data Center Network Maintenance - April 8, 2025'
+title = '[CANCELED] Data Center Network Maintenance - April 8, 2025'
 date = 2025-03-22T14:28:09-05:00
 draft = false
 +++
+The maintenance window has been canceled/rescheduled, we will post a new notice when a window is projected to be available.
+
 **Maintenance Windows**:
 
 * **Start**: 2025-04-08 22:00 UTC / April 8 - 5:00 PM CDT
