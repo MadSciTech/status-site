@@ -15,10 +15,11 @@ a.Banner-link img{
 
 }
 
-main a{
+main a, footer.Footer a{
     color: #09F;
 }
-main a:hover, main a:active, main a:visited{
+main a:hover, main a:active, 
+footer.Footer a:hover, footer.Footer a:active{
     color: #369;
 }
 
