@@ -22,7 +22,7 @@ cononifyURL = true
 
 # hugo-flex theme
 color = "#09F"
-footer =  "© 2024 <a href=\"//madscitech.com\">Mad Scientist Technologies</a>. Some Rights Reserved."
+footer =  "© 2025 <a href=\"//madscitech.com\">Mad Scientist Technologies</a>. Some Rights Reserved."
 
 css = ["css/custom.css"]
 
