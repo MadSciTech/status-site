@@ -1,7 +1,6 @@
 +++
 title = 'Outage: Webmail Unavailable'
-date = 2026-03-20T12:43:00-06:00
-draft = false
+date = 2026-03-20T12:43:00
 +++
 We are aware of an issue with our Web Mail Service for Managed Mail Services.
 
