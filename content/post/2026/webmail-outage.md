@@ -9,6 +9,8 @@ We are currently working on resolving the issue, update will be posted below:
 * March 20, 1:00PM: Working on fix
 * March 20, 12:43PM: Investigating
 * March 20, 12:40PM: Outage Detected
+* March 20, 2:00PM: Implemented short term fix until permanent fix is available
+* March 22: Long term fix is still pending, but this issue is marked as resolved
 
 **Effected Services**
 
